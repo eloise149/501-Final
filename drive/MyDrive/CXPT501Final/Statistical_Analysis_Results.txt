@@ -1,0 +1,57 @@
+'''
+1-4 Paired T-test
+5-8 Standard Independent T-test
+'''
+
+#1
+'''
+T-test is positive, p value < 0.05, reject H0.
+These data show that there is a significant difference between pre-treatment and Week 4 NT-proBNP levels for the sacubitril group.(p=0)
+'''
+
+#2
+'''
+T-test is positive, p value < 0.05, reject H0.
+These data show that there is a significant difference between pre-treatment and Week 8 NT-proBNP levels for the sacubitril group. (p=0)
+'''
+
+#3
+'''
+T-test is positive, p value < 0.05, reject H0.
+These data show that there is a significant difference between pre-treatment and Week 4 NT-proBNP levels for the Enalapril group.(p=0)
+'''
+
+#4
+'''
+T-test is highly positive, p < 0.05, reject H0.
+These data show that there is a significant difference between pre-treatment and Week 4 NT-proBNP levels for the Enalapril group.(p=0)
+'''
+
+#5
+'''
+T-test is highly negative, p <0.05, reject H0.
+These data show that there is a significant difference in NT-proBNP levels at Week 4 between patients treated with sacubitril/valsartan and those treated with enalapril.(p=1.5679936528060418e-213)
+'''
+
+#6
+'''
+T-test is highly negative, p <0.05, reject H0.
+These data show that there is a significant difference in NT-proBNP levels at Week 8 between patients treated with sacubitril/valsartan and those treated with enalapril.(p=0)
+'''
+
+#7
+'''
+T-test is highly negative, p <0.05, reject H0.
+These data show that there is a significant difference in NT-proBNP levels at Week 8 between patients over 60 treated with sacubitril/valsartan and those treated with enalapril.(p=0)
+'''
+
+#8
+'''
+T-test is highly negative, p <0.05, reject H0.
+These data show that there is a significant difference in NT-proBNP levels at Week 8 between patients over 60 treated with sacubitril/valsartan and those treated with enalapril.(p=0)
+'''
+
+There is a significant difference between pre-treatment and Week 4 NT-proBNP levels for the sacubitril/valsartan group.
+There is a significant difference between pre-treatment and Week 8 NT-proBNP levels for the sacubitril/valsartan group.
+There is a significant difference between pre-treatment and Week 4 NT-proBNP levels for the enalapril group.
+There is a significant difference between pre-treatment and Week 8 NT-proBNP levels for the enalapril group.

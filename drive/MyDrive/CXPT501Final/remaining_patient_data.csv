@@ -1,0 +1,895 @@
+,Age,Sex,Race,Ethnicity,Height (cm),Weight (kg),Smoking history,Pre-treatment NT-proBNP (pg/mL),Week 4 NT-proBNP (pg/mL),Week 8 NT-proBNP (pg/mL),Pre-treatment BNP (pg/mL),Prior use of ACEi/ARB,Left ventricular ejection fraction (%),Chronic renal insufficiency,Group,Symptomatic hypotension,Hyperkalemia,Death,BMI (kg/m^2),Age Group
+0,18.0,Male,Native American,Not Hispanic or Latino,191.0,78.0,never,6233.417,4656.362,3478.302,1346.151,Yes,29.079,No,Enalapril,No,Yes,No,21.380992845590857,<40
+1,28.0,Male,Native American,Not Hispanic or Latino,177.0,52.0,current,7215.386,5389.893,4026.25,1580.855,Yes,30.814,Yes,Enalapril,Yes,No,No,16.59804015448945,<40
+2,76.0,Female,Native American,Hispanic or Latino,157.0,116.0,never,6496.7,4853.035,3625.217,1545.452,Yes,31.473,Yes,Enalapril,No,No,No,47.06073268692442,>60
+3,43.0,Male,Other,Not Hispanic or Latino,196.0,114.0,never,5720.813,4273.447,3192.265,1355.318,Yes,26.399,Yes,Enalapril,No,No,No,29.67513536026656,40-60
+4,31.0,Male,Unknown,Hispanic or Latino,207.0,100.0,current,5820.136,4347.642,3247.689,1371.479,No,31.042,Yes,Enalapril,No,No,No,23.337767509160077,<40
+5,46.0,Male,Pacific Islander,Hispanic or Latino,190.0,85.0,former,5868.487,4383.76,3274.669,1964.215,No,25.377,No,Enalapril,Yes,No,No,23.545706371191137,40-60
+6,67.0,Male,Pacific Islander,Not Hispanic or Latino,152.0,73.0,never,5584.75,4171.808,3116.341,1787.376,No,27.903,No,Enalapril,No,No,No,31.596260387811633,>60
+7,51.0,Female,Black,Hispanic or Latino,182.0,114.0,never,7700.047,5751.935,4296.695,1578.57,Yes,26.483,Yes,Enalapril,No,No,No,34.416133317232216,40-60
+8,55.0,Male,Other,Not Hispanic or Latino,159.0,110.0,never,5629.315,4205.098,3141.208,1377.066,Yes,35.524,Yes,Enalapril,No,No,No,43.51093706736284,40-60
+9,48.0,Male,Caucasian,Hispanic or Latino,186.0,54.0,former,5419.766,4048.565,3024.278,1529.443,No,25.783,Yes,Enalapril,Yes,No,No,15.608740894901143,40-60
+11,75.0,Male,Caucasian,Hispanic or Latino,168.0,51.0,former,8104.995,6054.431,4522.66,1411.679,Yes,26.486,Yes,Enalapril,No,No,No,18.069727891156464,>60
+12,50.0,Male,Native American,Hispanic or Latino,188.0,41.0,never,5717.291,4270.816,3190.3,1437.247,Yes,33.197,No,Enalapril,No,No,No,11.60027161611589,40-60
+13,45.0,Male,Caucasian,Not Hispanic or Latino,168.0,118.0,former,5358.607,4002.879,2990.151,1418.516,Yes,25.081,Yes,Enalapril,No,No,No,41.808390022675745,40-60
+14,28.0,Female,Black,Hispanic or Latino,183.0,49.0,current,5629.534,4205.262,3141.331,1552.642,No,29.323,No,Enalapril,No,No,No,14.631670100630055,<40
+15,68.0,Female,Other,Hispanic or Latino,204.0,113.0,current,5407.682,4039.538,3017.535,1492.323,Yes,36.959,Yes,Enalapril,No,No,No,27.153018069973086,>60
+16,78.0,Female,Caucasian,Not Hispanic or Latino,165.0,112.0,current,5539.541,4138.037,3091.114,1722.866,Yes,27.624,No,Enalapril,No,No,No,41.13865932047751,>60
+17,25.0,Male,Asian,Hispanic or Latino,152.0,114.0,former,6558.08,4898.886,3659.468,1370.231,No,33.495,No,Enalapril,No,Yes,No,49.3421052631579,<40
+18,54.0,Male,Other,Hispanic or Latino,155.0,47.0,never,5344.017,3991.981,2982.01,1365.684,No,30.428,No,Enalapril,Yes,No,No,19.562955254942764,40-60
+19,20.0,Male,Pacific Islander,Not Hispanic or Latino,207.0,69.0,former,5491.529,4102.172,3064.322,1504.429,Yes,31.141,Yes,Enalapril,No,No,No,16.10305958132045,<40
+20,70.0,Male,Native American,Hispanic or Latino,158.0,48.0,current,5652.672,4222.546,3154.242,1781.363,Yes,25.454,No,Enalapril,No,No,No,19.227687870533565,>60
+21,51.0,Female,Black,Not Hispanic or Latino,210.0,67.0,never,5345.167,3992.84,2982.651,1450.055,No,35.141,Yes,Enalapril,No,No,No,15.192743764172334,40-60
+22,68.0,Male,Pacific Islander,Hispanic or Latino,195.0,45.0,never,5380.337,4019.112,3002.277,1489.231,Yes,37.283,Yes,Enalapril,No,No,No,11.834319526627219,>60
+23,51.0,Female,Pacific Islander,Not Hispanic or Latino,184.0,47.0,current,6328.802,4727.615,3531.528,1349.304,No,33.043,Yes,Enalapril,No,No,No,13.882325141776937,40-60
+24,20.0,Male,Pacific Islander,Not Hispanic or Latino,156.0,52.0,former,5713.395,4267.906,3188.126,1457.348,Yes,25.093,Yes,Enalapril,Yes,No,No,21.367521367521366,<40
+25,57.0,Male,Other,Hispanic or Latino,160.0,101.0,current,6406.433,4785.605,3574.847,1422.221,Yes,26.304,Yes,Enalapril,No,No,No,39.45312499999999,40-60
+26,45.0,Female,Other,Not Hispanic or Latino,183.0,53.0,former,6162.343,4603.27,3438.643,1615.714,Yes,28.593,No,Enalapril,Yes,No,No,15.826092149661081,40-60
+28,74.0,Female,Other,Not Hispanic or Latino,157.0,110.0,current,7017.729,5242.244,3915.956,1617.429,No,34.989,No,Enalapril,No,Yes,No,44.62655685829039,>60
+29,45.0,Female,Unknown,Hispanic or Latino,196.0,112.0,never,7177.533,5361.617,4005.128,1572.691,Yes,29.696,No,Enalapril,No,No,No,29.15451895043732,40-60
+30,61.0,Male,Other,Not Hispanic or Latino,153.0,48.0,never,6033.596,4507.096,3366.801,1509.486,No,26.864,Yes,Enalapril,No,No,No,20.504933999743688,>60
+31,58.0,Male,Pacific Islander,Not Hispanic or Latino,191.0,113.0,former,5764.075,4305.764,3216.406,1511.235,No,29.623,Yes,Enalapril,No,No,No,30.97502809681752,40-60
+32,45.0,Female,Asian,Not Hispanic or Latino,192.0,68.0,never,6031.438,4505.484,3365.597,1447.375,Yes,34.354,Yes,Enalapril,No,Yes,No,18.446180555555557,40-60
+33,21.0,Male,Pacific Islander,Hispanic or Latino,206.0,98.0,former,5592.345,4177.482,3120.579,1319.832,No,36.235,Yes,Enalapril,No,No,No,23.093599773776983,<40
+34,39.0,Male,Black,Hispanic or Latino,155.0,86.0,never,5775.666,4314.423,3222.874,1676.987,Yes,37.676,No,Enalapril,No,No,No,35.796045785639954,<40
+35,44.0,Female,Other,Not Hispanic or Latino,178.0,94.0,former,6933.307,5179.18,3868.847,1566.972,No,26.036,Yes,Enalapril,No,No,No,29.667971215755585,40-60
+36,56.0,Male,Pacific Islander,Hispanic or Latino,189.0,67.0,current,5949.059,4443.947,3319.628,1579.377,Yes,28.647,Yes,Enalapril,No,No,No,18.75647378292881,40-60
+39,30.0,Male,Pacific Islander,Hispanic or Latino,181.0,42.0,never,7283.472,5440.754,4064.243,1527.455,Yes,39.911,No,Enalapril,No,No,No,12.820121485913129,<40
+40,59.0,Male,Unknown,Not Hispanic or Latino,170.0,75.0,former,5580.627,4168.728,3114.04,1685.799,Yes,25.009,Yes,Enalapril,No,No,No,25.95155709342561,40-60
+41,43.0,Male,Native American,Hispanic or Latino,184.0,105.0,current,5524.134,4126.528,3082.516,1374.381,Yes,38.829,Yes,Enalapril,No,No,No,31.01370510396975,40-60
+42,43.0,Female,Other,Hispanic or Latino,156.0,96.0,current,6881.347,5140.366,3839.853,1628.503,Yes,26.678,No,Enalapril,No,No,No,39.44773175542406,40-60
+43,33.0,Male,Pacific Islander,Not Hispanic or Latino,165.0,41.0,never,6624.963,4948.847,3696.789,1545.364,No,38.332,Yes,Enalapril,No,No,No,15.059687786960517,<40
+44,37.0,Male,Caucasian,Not Hispanic or Latino,190.0,54.0,current,5848.012,4368.465,3263.243,1793.875,Yes,29.39,No,Enalapril,No,Yes,No,14.958448753462605,<40
+45,54.0,Male,Asian,Hispanic or Latino,154.0,57.0,former,5563.524,4155.952,3104.496,2067.981,Yes,30.217,Yes,Enalapril,No,No,No,24.034407151290267,40-60
+46,29.0,Female,Unknown,Hispanic or Latino,161.0,97.0,former,6490.63,4848.501,3621.83,1379.152,Yes,25.336,Yes,Enalapril,No,No,No,37.42139577948381,<40
+47,75.0,Female,Pacific Islander,Not Hispanic or Latino,172.0,118.0,never,5646.728,4218.106,3150.925,1388.492,Yes,34.055,No,Enalapril,No,Yes,No,39.88642509464576,>60
+48,29.0,Female,Asian,Hispanic or Latino,183.0,73.0,never,7369.903,5505.318,4112.473,1387.651,Yes,25.54,No,Enalapril,No,Yes,No,21.798202394816204,<40
+49,41.0,Female,Asian,Not Hispanic or Latino,188.0,53.0,former,6899.505,5153.93,3849.986,1789.798,Yes,29.242,No,Enalapril,No,No,No,14.995473064735176,40-60
+50,37.0,Female,Native American,Not Hispanic or Latino,197.0,112.0,never,6058.535,4525.726,3380.717,1324.177,Yes,26.887,No,Enalapril,No,Yes,No,28.859285217346493,<40
+51,54.0,Male,Black,Not Hispanic or Latino,153.0,64.0,current,6685.004,4993.698,3730.292,1801.467,Yes,39.622,No,Enalapril,No,No,No,27.339911999658252,40-60
+52,42.0,Male,Other,Not Hispanic or Latino,186.0,80.0,current,6544.455,4888.708,3651.865,1395.105,No,29.471,No,Enalapril,Yes,No,No,23.12406058503873,40-60
+53,24.0,Female,Native American,Not Hispanic or Latino,162.0,61.0,former,6598.74,4929.259,3682.156,1698.425,No,31.269,No,Enalapril,No,Yes,No,23.243408017070564,<40
+54,27.0,Male,Pacific Islander,Hispanic or Latino,160.0,55.0,former,6267.224,4681.616,3497.167,1652.12,Yes,25.426,Yes,Enalapril,No,No,No,21.484374999999996,<40
+55,63.0,Female,Asian,Not Hispanic or Latino,175.0,86.0,never,5360.981,4004.653,2991.476,1633.735,No,35.881,No,Enalapril,No,No,No,28.081632653061224,>60
+56,25.0,Male,Asian,Hispanic or Latino,193.0,82.0,current,6288.653,4697.624,3509.125,1923.563,Yes,39.376,No,Enalapril,No,No,No,22.014013799028163,<40
+57,22.0,Male,Other,Hispanic or Latino,194.0,109.0,never,7915.013,5912.515,4416.649,1350.721,Yes,31.659,No,Enalapril,Yes,Yes,No,28.961632479540867,<40
+58,23.0,Female,Other,Not Hispanic or Latino,198.0,88.0,current,6298.415,4704.916,3514.572,1368.416,No,29.695,Yes,Enalapril,Yes,No,No,22.44668911335578,<40
+59,31.0,Male,Black,Hispanic or Latino,194.0,53.0,never,5661.308,4228.997,3159.061,1879.275,No,34.38,Yes,Enalapril,No,No,No,14.082261664363907,<40
+60,24.0,Male,Other,Hispanic or Latino,164.0,99.0,never,6087.364,4547.261,3396.804,1701.068,No,37.729,Yes,Enalapril,No,Yes,No,36.808447352766215,<40
+61,65.0,Male,Pacific Islander,Hispanic or Latino,166.0,87.0,former,7385.489,5516.96,4121.169,1515.804,No,33.32,Yes,Enalapril,No,No,No,31.572071418202935,>60
+62,70.0,Male,Pacific Islander,Hispanic or Latino,208.0,90.0,never,5245.491,3918.382,2927.031,1803.286,No,34.98,No,Enalapril,No,No,No,20.802514792899405,>60
+63,72.0,Female,Unknown,Not Hispanic or Latino,167.0,107.0,current,6910.119,5161.859,3855.909,1400.16,Yes,30.428,Yes,Enalapril,No,No,No,38.366381010434225,>60
+64,65.0,Male,Black,Not Hispanic or Latino,178.0,93.0,former,6495.261,4851.96,3624.414,1854.882,Yes,31.171,No,Enalapril,No,No,No,29.352354500694357,>60
+65,23.0,Male,Native American,Hispanic or Latino,175.0,103.0,never,6912.176,5163.395,3857.056,1441.694,Yes,28.663,Yes,Enalapril,Yes,Yes,No,33.63265306122449,<40
+66,38.0,Female,Unknown,Not Hispanic or Latino,185.0,66.0,former,6056.17,4523.959,3379.397,1385.356,No,27.695,Yes,Enalapril,No,No,Yes,19.284149013878743,<40
+67,60.0,Female,Unknown,Hispanic or Latino,176.0,106.0,current,7273.617,5433.392,4058.744,1740.173,No,36.757,Yes,Enalapril,No,No,No,34.22004132231405,>60
+69,71.0,Male,Other,Not Hispanic or Latino,155.0,63.0,former,5226.155,3903.938,2916.242,1654.048,Yes,37.424,No,Enalapril,Yes,No,No,26.22268470343392,>60
+70,77.0,Male,Other,Not Hispanic or Latino,203.0,106.0,never,6742.299,5036.497,3762.263,1519.766,Yes,30.462,Yes,Enalapril,No,No,No,25.722536339149222,>60
+71,61.0,Male,Black,Not Hispanic or Latino,207.0,59.0,current,5249.873,3921.655,2929.476,1376.25,Yes,30.622,Yes,Enalapril,No,No,No,13.769282830404444,>60
+72,44.0,Female,Unknown,Hispanic or Latino,166.0,91.0,former,6777.615,5062.878,3781.97,1477.982,No,30.441,No,Enalapril,No,No,No,33.02366090869502,40-60
+73,69.0,Male,Native American,Hispanic or Latino,203.0,54.0,current,5880.12,4392.45,3281.16,1744.551,Yes,25.884,No,Enalapril,No,No,No,13.103933606736396,>60
+74,27.0,Female,Native American,Hispanic or Latino,201.0,70.0,former,6293.304,4701.098,3511.72,1377.479,Yes,32.699,Yes,Enalapril,Yes,No,No,17.326303804361284,<40
+75,32.0,Female,Caucasian,Hispanic or Latino,199.0,79.0,former,5534.041,4133.929,3088.045,1567.49,No,32.213,No,Enalapril,No,No,No,19.948991187091234,<40
+76,62.0,Female,Pacific Islander,Not Hispanic or Latino,163.0,49.0,never,5403.169,4036.167,3015.017,1382.616,Yes,29.134,No,Enalapril,No,No,No,18.442545824080696,>60
+77,20.0,Female,Unknown,Hispanic or Latino,156.0,110.0,former,7317.384,5466.086,4083.166,1354.811,No,27.674,No,Enalapril,No,No,No,45.20052596975673,<40
+78,21.0,Female,Other,Hispanic or Latino,175.0,67.0,never,5265.058,3932.998,2937.95,1368.81,No,29.322,No,Enalapril,No,No,No,21.877551020408163,<40
+79,77.0,Female,Unknown,Hispanic or Latino,172.0,78.0,current,7317.227,5465.969,4083.079,1521.297,Yes,35.511,Yes,Enalapril,No,Yes,No,26.365603028664147,>60
+80,66.0,Male,Native American,Hispanic or Latino,161.0,48.0,former,7267.205,5428.602,4055.166,1335.371,Yes,28.363,No,Enalapril,No,No,No,18.517804097064154,>60
+81,38.0,Male,Native American,Hispanic or Latino,186.0,66.0,former,6049.105,4518.681,3375.455,1731.354,No,29.755,Yes,Enalapril,No,No,No,19.07734998265695,<40
+82,25.0,Female,Caucasian,Not Hispanic or Latino,185.0,112.0,never,6917.514,5167.383,3860.035,1357.908,Yes,26.961,No,Enalapril,Yes,No,No,32.72461650840029,<40
+83,30.0,Male,Unknown,Hispanic or Latino,187.0,118.0,never,5976.234,4464.247,3334.793,1380.698,No,25.525,Yes,Enalapril,No,No,No,33.744173410735215,<40
+84,73.0,Female,Native American,Not Hispanic or Latino,178.0,47.0,former,5593.522,4178.361,3121.236,1317.54,Yes,34.561,Yes,Enalapril,No,No,No,14.833985607877793,>60
+85,50.0,Female,Asian,Hispanic or Latino,201.0,79.0,never,6138.252,4585.274,3425.2,1301.494,No,26.637,Yes,Enalapril,No,No,No,19.55397143635059,40-60
+86,41.0,Male,Native American,Not Hispanic or Latino,179.0,101.0,current,5438.027,4062.206,3034.468,1380.857,Yes,30.383,No,Enalapril,No,No,No,31.522112293623795,40-60
+87,20.0,Female,Pacific Islander,Not Hispanic or Latino,177.0,64.0,never,6513.304,4865.438,3634.482,1577.96,Yes,25.491,Yes,Enalapril,No,No,No,20.428357113217785,<40
+88,35.0,Male,Asian,Hispanic or Latino,164.0,49.0,former,5400.958,4034.516,3013.783,1421.69,Yes,29.238,No,Enalapril,No,No,No,18.218322427126715,<40
+89,60.0,Male,Asian,Not Hispanic or Latino,202.0,68.0,former,6614.035,4940.684,3690.691,1526.593,Yes,31.702,Yes,Enalapril,No,No,No,16.665032839917654,>60
+90,54.0,Female,Asian,Not Hispanic or Latino,163.0,115.0,current,6345.416,4740.026,3540.799,1458.202,Yes,36.242,Yes,Enalapril,No,Yes,No,43.28352591365878,40-60
+91,66.0,Male,Native American,Not Hispanic or Latino,190.0,45.0,former,6383.561,4768.52,3562.084,1616.626,Yes,30.869,No,Enalapril,No,No,No,12.465373961218837,>60
+92,60.0,Female,Asian,Not Hispanic or Latino,190.0,94.0,never,7731.639,5775.534,4314.324,1395.813,No,34.757,No,Enalapril,No,No,No,26.038781163434905,>60
+93,48.0,Male,Pacific Islander,Hispanic or Latino,197.0,64.0,current,5589.588,4175.422,3119.04,1465.118,No,29.948,Yes,Enalapril,No,No,No,16.491020124197995,40-60
+94,63.0,Female,Unknown,Not Hispanic or Latino,161.0,108.0,current,7369.695,5505.162,4112.356,1588.896,No,25.272,No,Enalapril,No,No,No,41.66505921839435,>60
+95,58.0,Female,Caucasian,Hispanic or Latino,168.0,95.0,never,5730.988,4281.048,3197.943,1340.648,No,38.213,No,Enalapril,No,No,No,33.6592970521542,40-60
+96,77.0,Female,Asian,Hispanic or Latino,177.0,46.0,never,5396.065,4030.861,3011.053,1780.867,Yes,29.132,Yes,Enalapril,No,No,No,14.682881675125282,>60
+98,66.0,Male,Native American,Hispanic or Latino,175.0,103.0,current,6280.509,4691.54,3504.58,1406.754,Yes,34.056,Yes,Enalapril,No,No,No,33.63265306122449,>60
+99,72.0,Female,Black,Hispanic or Latino,199.0,99.0,current,5269.593,3936.386,2940.48,1625.887,Yes,27.741,No,Enalapril,No,No,No,24.999368702810536,>60
+100,46.0,Female,Pacific Islander,Hispanic or Latino,201.0,115.0,former,5895.712,4404.097,3289.86,1420.811,Yes,28.185,Yes,Enalapril,No,No,No,28.464641964307823,40-60
+101,30.0,Female,Unknown,Hispanic or Latino,173.0,116.0,former,6291.972,4700.103,3510.977,1549.745,No,29.909,Yes,Enalapril,No,No,No,38.75839486785392,<40
+102,38.0,Female,Native American,Hispanic or Latino,210.0,45.0,current,5700.323,4258.141,3180.831,1534.05,Yes,35.19,Yes,Enalapril,No,No,No,10.204081632653061,<40
+104,47.0,Female,Caucasian,Hispanic or Latino,174.0,41.0,never,6501.944,4856.952,3628.143,1463.538,Yes,35.886,Yes,Enalapril,Yes,No,No,13.54207953494517,40-60
+105,76.0,Male,Black,Hispanic or Latino,194.0,59.0,never,7443.983,5560.655,4153.809,1480.327,Yes,34.645,No,Enalapril,No,No,No,15.67647996599001,>60
+106,55.0,Female,Other,Hispanic or Latino,158.0,83.0,never,5802.588,4334.533,3237.896,1800.577,Yes,31.925,No,Enalapril,No,No,Yes,33.247876942797625,40-60
+107,58.0,Male,Asian,Hispanic or Latino,172.0,49.0,current,6128.748,4578.175,3419.897,1366.777,Yes,26.094,No,Enalapril,No,No,No,16.563007030827475,40-60
+108,79.0,Female,Black,Not Hispanic or Latino,159.0,104.0,current,5361.846,4005.299,2991.958,1470.827,No,29.309,Yes,Enalapril,No,No,No,41.13761322732486,>60
+109,42.0,Male,Unknown,Not Hispanic or Latino,183.0,95.0,current,5924.626,4425.696,3305.995,1364.736,No,27.325,No,Enalapril,No,No,No,28.367523664486843,40-60
+110,30.0,Male,Other,Not Hispanic or Latino,191.0,85.0,current,6533.545,4880.558,3645.777,1902.218,No,33.732,Yes,Enalapril,No,No,No,23.299799895836188,<40
+111,56.0,Male,Native American,Not Hispanic or Latino,210.0,66.0,former,7451.573,5566.325,4158.045,1437.446,No,31.309,No,Enalapril,Yes,No,No,14.965986394557822,40-60
+112,31.0,Male,Pacific Islander,Hispanic or Latino,204.0,90.0,current,5462.136,4080.216,3047.921,1548.894,No,30.397,Yes,Enalapril,No,No,No,21.62629757785467,<40
+113,29.0,Female,Native American,Hispanic or Latino,169.0,110.0,never,6031.446,4505.49,3365.601,1720.844,No,37.392,No,Enalapril,No,No,No,38.514057631035335,<40
+114,65.0,Female,Unknown,Not Hispanic or Latino,193.0,116.0,former,6120.058,4571.683,3415.047,1591.284,Yes,34.64,No,Enalapril,No,No,No,31.1417756181374,>60
+116,51.0,Female,Asian,Not Hispanic or Latino,204.0,75.0,never,6448.166,4816.78,3598.135,1324.926,No,32.366,Yes,Enalapril,No,No,No,18.021914648212228,40-60
+117,36.0,Female,Black,Not Hispanic or Latino,165.0,66.0,former,7091.89,5297.642,3957.339,1303.117,No,38.02,Yes,Enalapril,No,No,No,24.242424242424246,<40
+118,62.0,Male,Other,Not Hispanic or Latino,168.0,90.0,never,6790.762,5072.699,3789.306,1551.87,Yes,32.417,No,Enalapril,Yes,No,No,31.88775510204082,>60
+119,43.0,Male,Other,Not Hispanic or Latino,201.0,108.0,current,5373.301,4013.856,2998.35,1698.086,No,37.272,No,Enalapril,No,No,No,26.732011583871692,40-60
+120,35.0,Male,Unknown,Not Hispanic or Latino,208.0,88.0,former,5595.043,4179.497,3122.084,1314.861,Yes,25.747,Yes,Enalapril,No,No,No,20.34023668639053,<40
+121,43.0,Female,Other,Not Hispanic or Latino,177.0,117.0,former,6592.596,4924.669,3678.728,1538.483,Yes,25.305,Yes,Enalapril,No,No,No,37.34559034760126,40-60
+122,67.0,Male,Native American,Not Hispanic or Latino,183.0,50.0,former,5686.187,4247.582,3172.944,1687.281,No,34.583,Yes,Enalapril,No,No,No,14.930275612887812,>60
+123,35.0,Female,Asian,Hispanic or Latino,184.0,76.0,former,7272.289,5432.4,4058.003,1368.769,Yes,34.81,No,Enalapril,No,Yes,No,22.448015122873343,<40
+124,62.0,Male,Caucasian,Hispanic or Latino,209.0,57.0,never,5619.974,4198.121,3135.996,1439.716,Yes,36.58,No,Enalapril,No,No,No,13.049151805132668,>60
+125,30.0,Male,Caucasian,Not Hispanic or Latino,170.0,82.0,never,5718.643,4271.826,3191.054,1314.252,No,27.45,No,Enalapril,Yes,No,No,28.373702422145332,<40
+126,22.0,Male,Caucasian,Not Hispanic or Latino,198.0,101.0,former,5451.216,4072.058,3041.827,1660.294,No,28.268,No,Enalapril,No,No,No,25.762677277828793,<40
+127,31.0,Male,Black,Hispanic or Latino,205.0,45.0,former,5259.901,3929.146,2935.072,1414.568,No,30.462,No,Enalapril,No,No,No,10.707911957168353,<40
+128,53.0,Male,Black,Hispanic or Latino,165.0,64.0,former,5498.848,4107.639,3068.406,1506.376,No,28.323,No,Enalapril,No,No,No,23.507805325987146,40-60
+129,22.0,Female,Asian,Not Hispanic or Latino,192.0,71.0,former,5936.373,4434.471,3312.55,1360.618,No,32.747,No,Enalapril,No,No,No,19.25998263888889,<40
+130,63.0,Male,Asian,Hispanic or Latino,201.0,75.0,never,6359.114,4750.258,3548.443,1491.15,No,32.185,No,Enalapril,No,No,No,18.56389693324423,>60
+131,65.0,Female,Unknown,Not Hispanic or Latino,170.0,72.0,current,7302.136,5454.696,4074.658,1387.604,No,29.654,No,Enalapril,No,No,No,24.913494809688583,>60
+132,29.0,Male,Caucasian,Not Hispanic or Latino,199.0,43.0,former,5237.024,3912.057,2922.307,1737.401,No,32.856,No,Enalapril,No,No,No,10.858311658796495,<40
+134,74.0,Female,Other,Not Hispanic or Latino,162.0,84.0,never,6534.471,4881.25,3646.294,1382.068,Yes,27.878,No,Enalapril,Yes,No,No,32.00731595793324,>60
+135,54.0,Male,Black,Hispanic or Latino,185.0,74.0,never,6556.086,4897.396,3658.355,1680.808,Yes,37.572,Yes,Enalapril,No,No,No,21.62162162162162,40-60
+136,56.0,Male,Unknown,Hispanic or Latino,209.0,55.0,never,6583.126,4917.595,3673.443,1421.558,Yes,26.512,Yes,Enalapril,No,No,Yes,12.59128682951398,40-60
+137,40.0,Female,Pacific Islander,Hispanic or Latino,204.0,57.0,former,5688.708,4249.465,3174.35,1487.661,No,25.195,No,Enalapril,No,No,No,13.696655132641292,40-60
+138,36.0,Male,Pacific Islander,Not Hispanic or Latino,212.0,72.0,current,5234.916,3910.482,2921.13,1437.74,Yes,34.163,Yes,Enalapril,Yes,No,No,16.019935920256316,<40
+139,20.0,Male,Native American,Not Hispanic or Latino,194.0,116.0,current,5610.205,4190.823,3130.545,1549.374,No,29.797,Yes,Enalapril,No,No,No,30.821553831437985,<40
+140,44.0,Male,Unknown,Hispanic or Latino,206.0,76.0,never,6695.0,5001.165,3735.87,1638.049,No,27.127,Yes,Enalapril,No,No,No,17.909322273541335,40-60
+142,26.0,Female,Other,Hispanic or Latino,193.0,42.0,never,5453.515,4073.776,3043.111,1320.432,Yes,35.07,Yes,Enalapril,No,No,No,11.275470482429059,<40
+143,46.0,Female,Asian,Not Hispanic or Latino,171.0,58.0,former,6692.866,4999.571,3734.68,1342.835,No,37.289,No,Enalapril,No,No,No,19.835162956123252,40-60
+144,56.0,Male,Asian,Hispanic or Latino,187.0,119.0,never,6224.416,4649.639,3473.28,1559.753,No,31.475,No,Enalapril,No,No,No,34.03014098201263,40-60
+145,78.0,Male,Pacific Islander,Hispanic or Latino,191.0,75.0,current,6098.646,4555.689,3403.1,1523.993,No,25.712,Yes,Enalapril,No,No,No,20.558646966914285,>60
+146,20.0,Female,Asian,Hispanic or Latino,209.0,50.0,never,6001.232,4482.92,3348.741,1461.278,No,27.61,No,Enalapril,No,No,No,11.446624390467253,<40
+147,76.0,Male,Other,Hispanic or Latino,159.0,73.0,never,5817.678,4345.805,3246.316,1626.479,Yes,36.636,No,Enalapril,No,Yes,No,28.875440053795337,>60
+148,77.0,Male,Asian,Not Hispanic or Latino,187.0,83.0,current,5420.42,4049.054,3024.643,1413.417,Yes,30.443,No,Enalapril,No,No,No,23.735308416025617,>60
+149,52.0,Female,Native American,Hispanic or Latino,193.0,44.0,current,7431.175,5551.088,4146.663,1384.975,Yes,28.712,Yes,Enalapril,No,No,No,11.812397648259013,40-60
+150,31.0,Female,Unknown,Not Hispanic or Latino,171.0,63.0,former,5990.308,4474.76,3342.646,1645.197,No,36.908,Yes,Enalapril,No,No,No,21.545090797168363,<40
+151,69.0,Male,Caucasian,Not Hispanic or Latino,165.0,90.0,current,5360.812,4004.527,2991.382,1328.585,Yes,29.272,Yes,Enalapril,No,No,No,33.057851239669425,>60
+152,24.0,Female,Pacific Islander,Not Hispanic or Latino,165.0,116.0,former,6191.147,4624.787,3454.716,1330.098,Yes,26.064,Yes,Enalapril,No,No,No,42.6078971533517,<40
+153,41.0,Female,Pacific Islander,Not Hispanic or Latino,155.0,82.0,former,5540.839,4139.007,3091.838,1573.103,Yes,29.632,No,Enalapril,No,No,No,34.131113423517164,40-60
+154,50.0,Male,Asian,Not Hispanic or Latino,201.0,92.0,former,5616.05,4195.189,3133.806,1603.291,No,30.295,No,Enalapril,No,No,No,22.771713571446256,40-60
+155,75.0,Male,Asian,Not Hispanic or Latino,179.0,93.0,former,6682.986,4992.191,3729.167,1445.185,Yes,35.198,No,Enalapril,No,No,No,29.025311319871417,>60
+156,51.0,Male,Unknown,Not Hispanic or Latino,166.0,79.0,former,6509.217,4862.385,3632.202,1737.126,Yes,34.04,No,Enalapril,No,No,No,28.668892437218755,40-60
+159,67.0,Male,Pacific Islander,Hispanic or Latino,164.0,78.0,never,5674.605,4238.93,3166.481,1866.48,No,39.006,No,Enalapril,No,No,No,29.000594883997625,>60
+160,75.0,Male,Unknown,Not Hispanic or Latino,161.0,102.0,current,5473.998,4089.077,3054.541,1691.672,No,30.532,Yes,Enalapril,No,No,No,39.35033370626133,>60
+161,43.0,Male,Unknown,Not Hispanic or Latino,186.0,78.0,former,6136.893,4584.259,3424.441,1582.559,Yes,30.726,Yes,Enalapril,No,No,No,22.54595907041276,40-60
+162,27.0,Female,Black,Not Hispanic or Latino,185.0,81.0,never,6353.523,4746.082,3545.323,1327.76,No,26.606,No,Enalapril,Yes,No,No,23.66691015339664,<40
+163,75.0,Female,Other,Not Hispanic or Latino,212.0,99.0,never,8280.555,6185.575,4620.625,1716.919,No,25.598,No,Enalapril,No,No,No,22.027411890352436,>60
+164,28.0,Male,Black,Hispanic or Latino,185.0,52.0,current,7087.202,5294.14,3954.723,1380.47,No,29.077,No,Enalapril,No,No,No,15.193571950328705,<40
+165,42.0,Female,Black,Hispanic or Latino,157.0,89.0,current,5356.575,4001.362,2989.017,1582.965,Yes,32.353,Yes,Enalapril,No,No,No,36.10694145807132,40-60
+166,37.0,Male,Asian,Hispanic or Latino,195.0,85.0,never,7144.729,5337.113,3986.823,1709.784,Yes,28.091,Yes,Enalapril,No,No,No,22.353714661406972,<40
+167,30.0,Male,Native American,Not Hispanic or Latino,155.0,94.0,current,6721.004,5020.59,3750.381,1511.092,No,26.153,Yes,Enalapril,No,No,No,39.12591050988553,<40
+169,64.0,Female,Unknown,Not Hispanic or Latino,202.0,62.0,never,6602.03,4931.716,3683.992,1529.547,No,34.443,No,Enalapril,No,Yes,No,15.194588765807273,>60
+170,53.0,Female,Pacific Islander,Not Hispanic or Latino,205.0,112.0,current,6325.093,4724.844,3529.458,1745.146,Yes,31.76,Yes,Enalapril,No,No,No,26.65080309339679,40-60
+172,57.0,Male,Black,Hispanic or Latino,175.0,109.0,never,5305.398,3963.132,2960.46,1424.703,No,30.933,Yes,Enalapril,Yes,No,No,35.59183673469388,40-60
+173,63.0,Male,Caucasian,Hispanic or Latino,208.0,68.0,never,6573.532,4910.428,3668.09,1550.073,Yes,31.902,Yes,Enalapril,No,No,No,15.717455621301774,>60
+175,26.0,Female,Unknown,Hispanic or Latino,205.0,113.0,never,5497.064,4106.307,3067.411,1627.42,No,28.123,No,Enalapril,No,No,No,26.888756692444975,<40
+176,24.0,Female,Unknown,Hispanic or Latino,201.0,91.0,former,6084.575,4545.178,3395.248,1437.747,Yes,34.779,Yes,Enalapril,No,No,No,22.524194945669667,<40
+177,46.0,Female,Unknown,Hispanic or Latino,165.0,46.0,current,5729.736,4280.113,3197.244,1776.285,Yes,33.876,No,Enalapril,No,No,No,16.896235078053262,40-60
+178,26.0,Male,Pacific Islander,Hispanic or Latino,172.0,83.0,never,6196.159,4628.531,3457.513,1954.635,No,25.176,No,Enalapril,No,No,No,28.055705786911847,<40
+180,41.0,Male,Unknown,Hispanic or Latino,195.0,69.0,current,6032.167,4506.029,3366.004,1435.033,Yes,26.694,Yes,Enalapril,No,No,No,18.14595660749507,40-60
+182,62.0,Female,Pacific Islander,Not Hispanic or Latino,188.0,64.0,current,5648.876,4219.71,3152.123,1386.224,No,30.953,No,Enalapril,No,No,No,18.107741059302853,>60
+183,63.0,Male,Other,Hispanic or Latino,157.0,116.0,never,7082.187,5290.394,3951.924,1494.971,No,27.144,Yes,Enalapril,No,No,No,47.06073268692442,>60
+184,42.0,Female,Other,Hispanic or Latino,185.0,50.0,never,6282.283,4692.865,3505.57,1494.815,No,34.571,Yes,Enalapril,Yes,No,No,14.609203798392986,40-60
+186,32.0,Male,Black,Hispanic or Latino,181.0,99.0,former,6011.645,4490.699,3354.552,1441.209,Yes,28.816,Yes,Enalapril,No,No,No,30.218857788223804,<40
+187,37.0,Female,Pacific Islander,Not Hispanic or Latino,202.0,94.0,current,6966.517,5203.988,3887.379,1601.632,No,25.717,No,Enalapril,No,No,No,23.03695716106264,<40
+188,45.0,Male,Black,Not Hispanic or Latino,162.0,79.0,never,5475.566,4090.248,3055.415,1590.583,No,32.536,No,Enalapril,No,No,No,30.102118579484827,40-60
+189,28.0,Male,Pacific Islander,Hispanic or Latino,176.0,78.0,current,6847.041,5114.74,3820.711,1486.799,No,26.09,No,Enalapril,No,No,No,25.180785123966942,<40
+191,42.0,Female,Caucasian,Hispanic or Latino,190.0,52.0,current,7208.98,5385.108,4022.676,1363.584,Yes,27.531,Yes,Enalapril,Yes,Yes,No,14.40443213296399,40-60
+192,48.0,Male,Unknown,Not Hispanic or Latino,162.0,89.0,never,5538.702,4137.41,3090.645,1805.822,No,33.45,Yes,Enalapril,No,No,No,33.91251333638164,40-60
+194,67.0,Female,Other,Hispanic or Latino,157.0,113.0,former,5676.837,4240.597,3167.726,1653.27,No,26.39,Yes,Enalapril,Yes,No,No,45.843644772607405,>60
+195,68.0,Female,Other,Hispanic or Latino,153.0,106.0,current,5630.048,4205.646,3141.618,1366.392,Yes,25.978,No,Enalapril,No,No,No,45.28172924943398,>60
+196,55.0,Female,Asian,Hispanic or Latino,178.0,63.0,never,5945.656,4441.405,3317.73,1432.808,No,28.419,No,Enalapril,No,No,No,19.883853048857468,40-60
+197,24.0,Female,Other,Hispanic or Latino,157.0,59.0,current,5988.325,4473.279,3341.539,1550.463,Yes,28.952,No,Enalapril,No,No,No,23.93606231490121,<40
+198,24.0,Female,Black,Hispanic or Latino,195.0,51.0,former,6179.149,4615.824,3448.021,1414.379,Yes,31.833,No,Enalapril,No,No,No,13.412228796844182,<40
+199,57.0,Female,Native American,Not Hispanic or Latino,194.0,87.0,current,6590.405,4923.033,3677.506,1400.138,Yes,37.244,No,Enalapril,No,No,No,23.11616537357849,40-60
+200,55.0,Male,Unknown,Hispanic or Latino,197.0,74.0,current,6149.926,4593.995,3431.714,1320.783,Yes,37.004,No,Enalapril,Yes,No,No,19.067742018603933,40-60
+201,54.0,Female,Unknown,Not Hispanic or Latino,164.0,69.0,never,6434.856,4806.837,3590.707,1403.067,Yes,37.085,No,Enalapril,No,No,No,25.654372397382513,40-60
+202,39.0,Male,Caucasian,Not Hispanic or Latino,182.0,102.0,former,5693.688,4253.185,3177.129,1895.874,Yes,33.19,No,Enalapril,Yes,No,No,30.79338244173409,<40
+204,63.0,Male,Asian,Not Hispanic or Latino,176.0,47.0,current,5677.413,4241.028,3168.048,1789.001,No,31.474,Yes,Enalapril,No,No,No,15.173037190082646,>60
+205,23.0,Male,Black,Hispanic or Latino,178.0,55.0,never,5770.584,4310.626,3220.038,1646.336,No,30.951,No,Enalapril,No,No,No,17.35891932836763,<40
+207,76.0,Female,Asian,Hispanic or Latino,195.0,66.0,former,5652.814,4222.652,3154.321,1475.643,Yes,30.877,Yes,Enalapril,No,No,No,17.357001972386588,>60
+208,19.0,Female,Caucasian,Hispanic or Latino,156.0,82.0,never,5543.315,4140.856,3093.219,1614.373,Yes,37.541,Yes,Enalapril,No,No,No,33.694937541091385,<40
+210,44.0,Male,Black,Not Hispanic or Latino,167.0,92.0,current,5810.879,4340.727,3242.523,1471.715,Yes,33.899,Yes,Enalapril,No,No,No,32.987916382803256,40-60
+211,61.0,Female,Asian,Not Hispanic or Latino,181.0,91.0,former,7551.997,5641.342,4214.082,1538.072,Yes,31.421,Yes,Enalapril,No,No,No,27.776929886145112,>60
+212,46.0,Male,Black,Hispanic or Latino,188.0,58.0,former,6103.008,4558.947,3405.533,1495.959,Yes,32.496,Yes,Enalapril,No,No,No,16.410140334993212,40-60
+213,43.0,Female,Pacific Islander,Hispanic or Latino,205.0,99.0,former,5601.227,4184.117,3125.535,1377.441,No,36.456,Yes,Enalapril,No,Yes,No,23.557406305770378,40-60
+214,25.0,Female,Caucasian,Not Hispanic or Latino,179.0,65.0,never,5355.776,4000.765,2988.571,1613.174,Yes,25.751,Yes,Enalapril,No,No,No,20.286507911738084,<40
+215,27.0,Female,Caucasian,Hispanic or Latino,179.0,79.0,never,5268.241,3935.376,2939.726,1505.209,No,33.5,Yes,Enalapril,No,No,No,24.65590961580475,<40
+216,25.0,Female,Black,Hispanic or Latino,192.0,59.0,former,5552.875,4147.998,3098.555,1528.515,No,29.887,No,Enalapril,No,No,No,16.004774305555557,<40
+217,79.0,Female,Black,Not Hispanic or Latino,171.0,98.0,current,5856.766,4375.004,3268.128,1364.81,Yes,27.034,No,Enalapril,No,No,No,33.51458568448412,>60
+218,49.0,Female,Caucasian,Hispanic or Latino,183.0,55.0,former,6978.189,5212.707,3893.892,1302.864,No,27.363,No,Enalapril,No,No,No,16.423303174176592,40-60
+219,61.0,Male,Native American,Not Hispanic or Latino,164.0,41.0,never,6368.235,4757.072,3553.533,1682.482,No,38.435,Yes,Enalapril,Yes,Yes,No,15.243902439024392,>60
+220,71.0,Female,Asian,Not Hispanic or Latino,172.0,100.0,never,6099.605,4556.405,3403.635,1565.67,No,33.52,No,Enalapril,No,No,No,33.802055164954034,>60
+221,71.0,Male,Caucasian,Hispanic or Latino,178.0,79.0,never,7650.76,5715.118,4269.193,1371.948,No,37.819,Yes,Enalapril,No,No,Yes,24.933720489837143,>60
+222,40.0,Female,Black,Hispanic or Latino,154.0,52.0,current,5911.39,4415.808,3298.609,1661.562,Yes,33.475,No,Enalapril,No,No,No,21.926125822229718,40-60
+223,32.0,Female,Black,Hispanic or Latino,161.0,61.0,never,6891.737,5148.128,3845.652,1556.522,Yes,30.81,Yes,Enalapril,Yes,No,No,23.533042706685695,<40
+224,29.0,Female,Pacific Islander,Hispanic or Latino,179.0,70.0,never,5524.245,4126.611,3082.578,1695.293,No,37.784,Yes,Enalapril,Yes,No,No,21.847008520333322,<40
+225,69.0,Female,Black,Hispanic or Latino,193.0,89.0,former,6656.897,4972.702,3714.608,1627.014,No,29.725,No,Enalapril,No,No,No,23.893258879433006,>60
+226,43.0,Female,Caucasian,Hispanic or Latino,177.0,75.0,never,7505.196,5606.381,4187.967,1938.931,No,34.67,Yes,Enalapril,No,Yes,No,23.93948099205209,40-60
+227,21.0,Male,Native American,Hispanic or Latino,212.0,69.0,former,5607.101,4188.504,3128.812,1475.362,Yes,31.468,No,Enalapril,No,No,No,15.352438590245637,<40
+228,39.0,Female,Asian,Hispanic or Latino,171.0,75.0,former,5684.393,4246.242,3171.943,1419.716,No,29.979,Yes,Enalapril,No,No,No,25.64891761567662,<40
+229,28.0,Male,Caucasian,Hispanic or Latino,159.0,95.0,former,5509.518,4115.61,3074.361,1424.795,No,28.572,No,Enalapril,No,Yes,No,37.5776274672679,<40
+232,67.0,Male,Black,Hispanic or Latino,159.0,49.0,current,5535.483,4135.006,3088.849,1674.26,No,38.782,No,Enalapril,No,No,No,19.382144693643447,>60
+233,44.0,Male,Asian,Hispanic or Latino,186.0,116.0,former,6652.897,4969.714,3712.376,1671.849,No,27.499,Yes,Enalapril,No,No,No,33.52988784830616,40-60
+234,32.0,Female,Black,Not Hispanic or Latino,194.0,106.0,former,6207.6,4637.077,3463.897,1330.703,No,38.412,No,Enalapril,No,No,No,28.164523328727814,<40
+236,72.0,Female,Native American,Not Hispanic or Latino,195.0,94.0,former,7417.07,5540.551,4138.792,1318.452,Yes,25.13,Yes,Enalapril,Yes,Yes,No,24.720578566732414,>60
+237,73.0,Male,Pacific Islander,Not Hispanic or Latino,156.0,95.0,current,6396.361,4778.082,3569.227,1498.38,Yes,29.716,No,Enalapril,No,No,No,39.036817882971725,>60
+239,40.0,Male,Caucasian,Not Hispanic or Latino,173.0,92.0,former,8193.214,6120.331,4571.887,1705.307,No,34.252,No,Enalapril,No,No,No,30.73941661933242,40-60
+240,38.0,Male,Black,Not Hispanic or Latino,209.0,80.0,former,5343.328,3991.466,2981.625,1448.618,Yes,34.682,No,Enalapril,No,No,No,18.314599024747604,<40
+241,46.0,Female,Black,Hispanic or Latino,207.0,108.0,never,6752.11,5043.826,3767.738,1378.468,No,38.724,Yes,Enalapril,Yes,No,No,25.204788909892883,40-60
+242,28.0,Male,Asian,Not Hispanic or Latino,212.0,71.0,former,5565.93,4157.75,3105.839,1434.132,Yes,34.183,No,Enalapril,No,No,No,15.797436810252757,<40
+243,54.0,Male,Asian,Hispanic or Latino,198.0,43.0,never,6365.128,4754.751,3551.799,1531.569,Yes,30.087,Yes,Enalapril,No,No,No,10.96826854402612,40-60
+244,75.0,Male,Native American,Not Hispanic or Latino,181.0,91.0,current,7745.483,5785.876,4322.049,1417.026,Yes,25.543,Yes,Enalapril,No,No,No,27.776929886145112,>60
+245,67.0,Male,Black,Not Hispanic or Latino,164.0,114.0,current,5364.926,4007.6,2993.677,1521.584,Yes,33.248,No,Enalapril,No,No,No,42.38548483045807,>60
+246,35.0,Male,Unknown,Hispanic or Latino,175.0,64.0,former,6737.431,5032.861,3759.547,1336.472,Yes,32.364,No,Enalapril,No,No,No,20.897959183673468,<40
+247,44.0,Male,Unknown,Not Hispanic or Latino,157.0,93.0,never,5671.404,4236.539,3164.695,1518.988,Yes,29.458,Yes,Enalapril,No,No,No,37.72972534382733,40-60
+248,56.0,Female,Black,Not Hispanic or Latino,175.0,93.0,current,6735.968,5031.768,3758.731,1512.953,No,31.028,No,Enalapril,No,No,No,30.367346938775512,40-60
+249,54.0,Female,Unknown,Not Hispanic or Latino,155.0,99.0,never,8660.012,6469.029,4832.365,1551.628,No,29.821,No,Enalapril,No,No,Yes,41.207075962539015,40-60
+250,38.0,Female,Asian,Not Hispanic or Latino,190.0,106.0,current,5426.446,4053.555,3028.006,1482.085,Yes,34.464,No,Enalapril,No,No,No,29.362880886426595,<40
+251,75.0,Female,Black,Hispanic or Latino,201.0,114.0,former,7187.098,5368.762,4010.465,1440.494,Yes,31.263,No,Enalapril,No,No,No,28.21712333853123,>60
+252,75.0,Male,Caucasian,Not Hispanic or Latino,200.0,74.0,never,6926.112,5173.806,3864.833,1464.67,Yes,28.386,Yes,Enalapril,No,No,Yes,18.5,>60
+254,28.0,Male,Other,Hispanic or Latino,170.0,86.0,current,6127.133,4576.968,3418.995,1787.721,Yes,34.655,Yes,Enalapril,No,No,No,29.75778546712803,<40
+255,49.0,Male,Black,Hispanic or Latino,157.0,79.0,former,5371.232,4012.31,2997.196,1336.547,No,28.304,Yes,Enalapril,No,No,No,32.049981743681286,40-60
+257,74.0,Male,Other,Hispanic or Latino,189.0,48.0,former,8795.278,6570.073,4907.845,1511.28,No,25.72,No,Enalapril,No,No,No,13.437473754934073,>60
+258,58.0,Male,Unknown,Not Hispanic or Latino,188.0,94.0,former,5458.782,4077.71,3046.049,1470.215,Yes,26.369,Yes,Enalapril,No,No,No,26.595744680851066,40-60
+259,70.0,Female,Unknown,Hispanic or Latino,160.0,40.0,current,6082.756,4543.819,3394.233,1634.375,Yes,25.05,Yes,Enalapril,Yes,No,No,15.624999999999996,>60
+260,43.0,Female,Black,Hispanic or Latino,174.0,103.0,current,5394.549,4029.728,3010.207,1328.828,Yes,30.661,No,Enalapril,Yes,No,No,34.020346148764695,40-60
+261,28.0,Female,Other,Not Hispanic or Latino,181.0,85.0,current,6287.326,4696.633,3508.385,1324.095,No,28.665,No,Enalapril,No,No,No,25.94548395958609,<40
+262,50.0,Female,Black,Not Hispanic or Latino,166.0,56.0,never,5524.218,4126.591,3082.563,1323.018,No,26.367,No,Enalapril,No,No,No,20.322252866889244,40-60
+263,52.0,Female,Black,Hispanic or Latino,159.0,80.0,current,5608.238,4189.354,3129.447,1965.798,No,37.516,No,Enalapril,No,No,No,31.644317867172973,40-60
+264,66.0,Female,Native American,Hispanic or Latino,199.0,103.0,never,6108.67,4563.176,3408.692,1548.368,Yes,35.425,No,Enalapril,No,No,No,26.009444205954395,>60
+265,59.0,Male,Black,Not Hispanic or Latino,177.0,106.0,current,7256.44,5420.561,4049.159,1760.232,Yes,28.124,No,Enalapril,No,No,No,33.834466468766955,40-60
+266,50.0,Male,Black,Not Hispanic or Latino,196.0,118.0,current,8026.699,5995.944,4478.97,1564.649,Yes,33.996,No,Enalapril,Yes,No,No,30.716368179925034,40-60
+267,39.0,Female,Pacific Islander,Hispanic or Latino,199.0,53.0,never,5391.155,4027.193,3008.313,1331.207,No,34.092,Yes,Enalapril,No,No,No,13.383500416656144,<40
+268,45.0,Male,Caucasian,Not Hispanic or Latino,159.0,107.0,former,6824.246,5097.712,3807.991,1524.481,Yes,34.635,Yes,Enalapril,No,No,No,42.324275147343855,40-60
+269,32.0,Male,Caucasian,Not Hispanic or Latino,152.0,81.0,current,5416.14,4045.857,3022.255,1610.308,Yes,32.133,Yes,Enalapril,No,No,No,35.05886426592798,<40
+271,41.0,Male,Pacific Islander,Not Hispanic or Latino,209.0,119.0,never,8528.781,6370.999,4759.136,1385.326,Yes,30.304,No,Enalapril,Yes,No,No,27.242966049312063,40-60
+272,31.0,Male,Black,Not Hispanic or Latino,200.0,87.0,never,6313.666,4716.309,3523.083,1317.634,Yes,28.01,No,Enalapril,No,No,No,21.75,<40
+273,50.0,Male,Black,Not Hispanic or Latino,205.0,41.0,never,5500.493,4108.868,3069.324,1375.693,Yes,38.734,Yes,Enalapril,No,Yes,No,9.756097560975611,40-60
+274,47.0,Female,Unknown,Not Hispanic or Latino,172.0,107.0,current,7546.714,5637.395,4211.134,1498.846,No,25.586,No,Enalapril,No,No,No,36.168199026500815,40-60
+275,29.0,Male,Asian,Hispanic or Latino,188.0,47.0,former,5850.265,4370.148,3264.501,1352.217,Yes,32.235,Yes,Enalapril,No,No,No,13.297872340425533,<40
+277,65.0,Female,Black,Not Hispanic or Latino,161.0,43.0,former,5789.322,4324.624,3230.494,1562.826,No,32.837,Yes,Enalapril,No,No,Yes,16.58886617028664,>60
+278,31.0,Female,Other,Not Hispanic or Latino,208.0,60.0,current,6301.445,4707.179,3516.263,1593.55,No,38.596,No,Enalapril,No,Yes,No,13.86834319526627,<40
+279,74.0,Male,Pacific Islander,Hispanic or Latino,164.0,113.0,former,5500.406,4108.803,3069.276,1420.896,Yes,31.224,Yes,Enalapril,No,No,No,42.013682331945276,>60
+280,57.0,Female,Black,Hispanic or Latino,191.0,80.0,former,5661.494,4229.136,3159.165,1633.045,Yes,35.192,No,Enalapril,No,No,No,21.929223431375238,40-60
+281,75.0,Male,Black,Hispanic or Latino,159.0,92.0,current,5869.764,4384.714,3275.381,1729.158,Yes,25.135,Yes,Enalapril,No,No,No,36.39096554724892,>60
+282,29.0,Female,Asian,Not Hispanic or Latino,212.0,77.0,current,6414.658,4791.75,3579.437,1419.708,Yes,25.359,No,Enalapril,Yes,No,No,17.132431470274117,<40
+283,21.0,Male,Other,Hispanic or Latino,182.0,62.0,former,6066.026,4531.321,3384.897,1696.354,Yes,31.895,No,Enalapril,Yes,No,No,18.717546190073662,<40
+284,61.0,Female,Caucasian,Not Hispanic or Latino,168.0,44.0,never,7277.428,5436.239,4060.871,1344.955,No,26.233,No,Enalapril,No,No,No,15.589569160997735,>60
+285,30.0,Female,Unknown,Not Hispanic or Latino,181.0,111.0,never,5517.619,4121.661,3078.881,1360.453,No,28.871,Yes,Enalapril,No,No,No,33.88174964134184,<40
+286,60.0,Male,Unknown,Not Hispanic or Latino,211.0,70.0,former,5537.76,4136.707,3090.12,2091.652,No,25.333,No,Enalapril,No,No,No,15.722917274993824,>60
+287,73.0,Female,Native American,Hispanic or Latino,169.0,82.0,current,5648.905,4219.732,3152.14,1430.95,No,25.665,Yes,Enalapril,No,No,No,28.71047932495361,>60
+288,31.0,Female,Pacific Islander,Not Hispanic or Latino,201.0,68.0,never,6481.699,4841.829,3616.846,1387.854,Yes,31.228,No,Enalapril,Yes,No,No,16.831266552808103,<40
+289,61.0,Male,Pacific Islander,Hispanic or Latino,200.0,61.0,never,5449.806,4071.005,3041.041,1442.917,No,38.289,Yes,Enalapril,No,No,No,15.25,>60
+290,53.0,Male,Asian,Not Hispanic or Latino,193.0,60.0,current,6715.917,5016.79,3747.542,1491.259,No,32.205,Yes,Enalapril,No,No,No,16.107814974898655,40-60
+291,54.0,Male,Caucasian,Not Hispanic or Latino,170.0,111.0,never,8518.038,6362.974,4753.142,1454.757,No,25.33,No,Enalapril,No,No,No,38.4083044982699,40-60
+292,61.0,Male,Asian,Hispanic or Latino,172.0,61.0,never,6493.281,4850.481,3623.309,1429.64,Yes,32.291,No,Enalapril,No,Yes,No,20.61925365062196,>60
+293,73.0,Female,Unknown,Not Hispanic or Latino,198.0,108.0,never,7194.566,5374.341,4014.633,1621.886,Yes,28.503,Yes,Enalapril,No,No,No,27.548209366391184,>60
+294,38.0,Male,Unknown,Not Hispanic or Latino,169.0,99.0,former,5877.448,4390.454,3279.669,1323.051,Yes,28.05,Yes,Enalapril,No,No,No,34.6626518679318,<40
+295,61.0,Female,Unknown,Not Hispanic or Latino,193.0,117.0,former,5470.832,4086.712,3052.774,1401.208,Yes,36.203,Yes,Enalapril,No,No,Yes,31.410239201052377,>60
+296,34.0,Male,Caucasian,Hispanic or Latino,154.0,53.0,current,7078.91,5287.946,3950.096,1793.792,Yes,36.581,No,Enalapril,No,Yes,No,22.34778208804183,<40
+297,49.0,Male,Unknown,Hispanic or Latino,196.0,54.0,former,5792.383,4326.91,3232.202,1464.031,Yes,29.187,Yes,Enalapril,No,No,No,14.056643065389423,40-60
+298,41.0,Male,Unknown,Hispanic or Latino,187.0,84.0,former,6183.392,4618.994,3450.389,1500.269,Yes,25.194,No,Enalapril,No,No,No,24.021275987303035,40-60
+299,68.0,Female,Black,Hispanic or Latino,205.0,91.0,former,7081.717,5290.043,3951.662,1612.284,No,26.79,Yes,Enalapril,No,No,No,21.65377751338489,>60
+301,29.0,Male,Unknown,Hispanic or Latino,210.0,99.0,never,5233.976,3909.78,2920.606,1612.057,No,28.157,Yes,Enalapril,No,No,No,22.448979591836736,<40
+302,79.0,Female,Caucasian,Hispanic or Latino,168.0,46.0,former,7121.64,5319.865,3973.939,1551.939,No,29.124,No,Enalapril,No,No,No,16.298185941043087,>60
+303,32.0,Female,Native American,Not Hispanic or Latino,170.0,50.0,current,5836.277,4359.699,3256.695,1335.765,Yes,30.478,Yes,Enalapril,Yes,No,No,17.301038062283737,<40
+304,60.0,Female,Caucasian,Hispanic or Latino,196.0,74.0,never,5297.902,3957.533,2956.277,1432.522,Yes,32.668,No,Enalapril,No,No,No,19.2628071636818,>60
+305,46.0,Female,Caucasian,Hispanic or Latino,205.0,46.0,current,7509.678,5609.729,4190.468,1492.998,No,31.403,No,Enalapril,No,No,No,10.945865556216539,40-60
+306,26.0,Male,Black,Hispanic or Latino,153.0,56.0,current,5514.516,4119.343,3077.149,1540.527,Yes,33.967,No,Enalapril,No,No,No,23.92242299970097,<40
+307,75.0,Male,Asian,Hispanic or Latino,179.0,66.0,never,5850.278,4370.158,3264.508,1761.087,No,26.09,No,Enalapril,No,No,No,20.598608033457133,>60
+308,31.0,Female,Asian,Hispanic or Latino,194.0,44.0,current,6668.54,4981.399,3721.105,1792.745,Yes,26.065,No,Enalapril,No,No,No,11.690934211924754,<40
+309,28.0,Male,Pacific Islander,Not Hispanic or Latino,172.0,63.0,current,6887.257,5144.781,3843.151,1314.432,No,32.79,No,Enalapril,No,No,No,21.29529475392104,<40
+310,23.0,Female,Unknown,Not Hispanic or Latino,155.0,43.0,never,5603.664,4185.937,3126.895,1712.959,No,25.578,No,Enalapril,No,No,No,17.898022892819977,<40
+311,64.0,Female,Black,Not Hispanic or Latino,187.0,108.0,former,5240.167,3914.405,2924.061,1323.477,No,32.018,No,Enalapril,No,No,No,30.884497697961045,>60
+312,78.0,Female,Pacific Islander,Not Hispanic or Latino,157.0,53.0,current,5316.344,3971.309,2966.568,1432.348,Yes,29.321,No,Enalapril,No,Yes,No,21.50188648626719,>60
+313,53.0,Male,Caucasian,Hispanic or Latino,175.0,98.0,former,5384.111,4021.931,3004.382,1491.909,Yes,33.635,No,Enalapril,Yes,No,No,32.0,40-60
+316,63.0,Female,Asian,Not Hispanic or Latino,177.0,78.0,never,6595.64,4926.943,3680.426,1711.426,No,36.842,Yes,Enalapril,No,No,No,24.897060231734173,>60
+317,29.0,Male,Asian,Hispanic or Latino,197.0,55.0,current,6043.026,4514.14,3372.063,1577.75,No,31.609,No,Enalapril,No,Yes,No,14.171970419232652,<40
+318,61.0,Male,Caucasian,Not Hispanic or Latino,187.0,48.0,former,5503.192,4110.884,3070.83,1572.726,No,36.901,Yes,Enalapril,No,Yes,No,13.72644342131602,>60
+319,55.0,Female,Asian,Not Hispanic or Latino,172.0,52.0,current,5346.395,3993.757,2983.336,1403.782,Yes,29.963,No,Enalapril,No,No,No,17.577068685776098,40-60
+320,69.0,Male,Black,Hispanic or Latino,153.0,116.0,current,5490.092,4101.099,3063.521,1482.108,No,27.661,Yes,Enalapril,No,No,No,49.55359049938058,>60
+321,25.0,Female,Other,Not Hispanic or Latino,181.0,65.0,former,5554.993,4149.58,3099.736,1473.622,Yes,28.962,Yes,Enalapril,No,No,No,19.840664204389366,<40
+322,55.0,Male,Other,Not Hispanic or Latino,188.0,41.0,current,5505.008,4112.241,3071.844,1653.146,Yes,39.703,No,Enalapril,No,No,No,11.60027161611589,40-60
+323,55.0,Male,Caucasian,Hispanic or Latino,168.0,87.0,never,6014.432,4492.781,3356.107,1537.597,No,38.111,Yes,Enalapril,No,No,No,30.824829931972793,40-60
+324,43.0,Male,Caucasian,Not Hispanic or Latino,187.0,57.0,current,6704.048,5007.924,3740.919,1552.212,Yes,26.802,No,Enalapril,No,No,No,16.300151562812776,40-60
+325,29.0,Male,Caucasian,Hispanic or Latino,204.0,108.0,former,6233.031,4656.074,3478.087,1656.209,Yes,33.283,Yes,Enalapril,No,No,No,25.951557093425606,<40
+326,56.0,Male,Other,Not Hispanic or Latino,165.0,47.0,current,5821.949,4348.996,3248.7,1890.77,Yes,35.465,Yes,Enalapril,No,No,No,17.263544536271812,40-60
+327,55.0,Male,Native American,Hispanic or Latino,153.0,70.0,never,5388.602,4025.286,3006.889,1615.696,Yes,29.479,No,Enalapril,No,No,No,29.903028749626213,40-60
+328,77.0,Female,Unknown,Not Hispanic or Latino,173.0,45.0,current,6390.891,4773.996,3566.175,1338.027,No,27.41,No,Enalapril,No,Yes,No,15.035584215977813,>60
+329,23.0,Female,Native American,Not Hispanic or Latino,162.0,118.0,never,7672.467,5731.333,4281.306,1573.268,Yes,38.647,Yes,Enalapril,No,No,No,44.962658131382405,<40
+330,43.0,Female,Black,Hispanic or Latino,194.0,101.0,former,5812.665,4342.061,3243.52,1658.629,No,29.345,Yes,Enalapril,No,No,Yes,26.83600807737273,40-60
+332,75.0,Female,Pacific Islander,Not Hispanic or Latino,166.0,105.0,never,6712.754,5014.427,3745.777,1553.994,Yes,30.289,No,Enalapril,No,No,No,38.10422412541733,>60
+333,19.0,Female,Pacific Islander,Hispanic or Latino,157.0,112.0,never,5478.885,4092.727,3057.267,1601.8,No,36.718,Yes,Enalapril,No,No,No,45.4379488011684,<40
+334,40.0,Male,Other,Hispanic or Latino,171.0,116.0,former,5655.21,4224.442,3155.658,1980.451,No,29.989,No,Enalapril,No,No,No,39.670325912246504,40-60
+335,76.0,Female,Native American,Hispanic or Latino,190.0,44.0,never,6972.946,5208.791,3890.967,1469.191,Yes,32.333,No,Enalapril,No,No,No,12.18836565096953,>60
+336,73.0,Female,Pacific Islander,Not Hispanic or Latino,167.0,55.0,current,7876.347,5883.631,4395.072,1392.122,Yes,29.38,Yes,Enalapril,No,Yes,No,19.721036967980208,>60
+337,74.0,Female,Pacific Islander,Hispanic or Latino,179.0,116.0,current,5721.157,4273.704,3192.457,1660.56,Yes,25.163,No,Enalapril,No,No,No,36.20361411940951,>60
+339,46.0,Female,Caucasian,Not Hispanic or Latino,179.0,104.0,never,7085.506,5292.873,3953.776,1314.037,Yes,32.145,No,Enalapril,No,No,No,32.45841265878094,40-60
+340,62.0,Male,Caucasian,Not Hispanic or Latino,209.0,43.0,current,5515.778,4120.286,3077.854,1354.249,No,25.961,No,Enalapril,Yes,No,No,9.844096975801838,>60
+341,29.0,Female,Other,Not Hispanic or Latino,198.0,113.0,former,5534.187,4134.038,3088.126,1539.981,No,32.685,No,Enalapril,No,No,No,28.823589429650035,<40
+343,67.0,Male,Other,Hispanic or Latino,169.0,71.0,former,5458.052,4077.165,3045.642,1585.767,Yes,34.177,No,Enalapril,Yes,No,No,24.859073561850078,>60
+344,59.0,Male,Caucasian,Hispanic or Latino,176.0,89.0,never,7083.787,5291.589,3952.817,1490.757,Yes,27.796,No,Enalapril,Yes,No,No,28.731921487603305,40-60
+345,48.0,Male,Black,Hispanic or Latino,169.0,97.0,current,5782.459,4319.497,3226.664,1311.082,Yes,34.304,Yes,Enalapril,No,No,No,33.96239627464025,40-60
+346,38.0,Male,Pacific Islander,Not Hispanic or Latino,177.0,90.0,current,7647.016,5712.321,4267.104,1619.399,No,32.184,Yes,Enalapril,No,No,No,28.72737719046251,<40
+347,22.0,Male,Pacific Islander,Hispanic or Latino,166.0,116.0,former,6055.34,4523.339,3378.934,1604.683,Yes,28.61,No,Enalapril,No,No,No,42.09609522427058,<40
+348,20.0,Female,Asian,Hispanic or Latino,153.0,58.0,current,5795.402,4329.165,3233.886,1307.556,Yes,31.163,Yes,Enalapril,Yes,No,No,24.77679524969029,<40
+349,57.0,Male,Unknown,Hispanic or Latino,171.0,61.0,former,5625.668,4202.374,3139.173,1508.08,No,28.095,No,Enalapril,No,No,No,20.86111966075032,40-60
+350,69.0,Male,Native American,Hispanic or Latino,203.0,85.0,current,6215.967,4643.327,3468.565,1389.504,Yes,30.31,No,Enalapril,Yes,No,No,20.626562158751735,>60
+351,32.0,Male,Other,Not Hispanic or Latino,212.0,109.0,former,7326.157,5472.639,4088.061,1592.187,Yes,27.066,Yes,Enalapril,No,No,No,24.252402990388035,<40
+352,24.0,Female,Unknown,Hispanic or Latino,159.0,63.0,current,6898.297,5153.028,3849.312,1527.981,No,27.953,Yes,Enalapril,No,No,No,24.919900320398717,<40
+353,51.0,Male,Other,Not Hispanic or Latino,187.0,91.0,current,5687.102,4248.265,3173.454,1368.039,No,28.139,No,Enalapril,Yes,No,No,26.023048986244955,40-60
+354,77.0,Male,Other,Hispanic or Latino,208.0,77.0,former,5317.0,3971.799,2966.934,1631.608,No,37.048,Yes,Enalapril,No,No,No,17.797707100591715,>60
+356,23.0,Male,Native American,Not Hispanic or Latino,159.0,91.0,never,5513.812,4118.818,3076.757,1338.858,No,28.234,Yes,Enalapril,No,No,No,35.99541157390926,<40
+357,39.0,Male,Pacific Islander,Hispanic or Latino,165.0,72.0,former,5323.54,3976.684,2970.583,1396.806,No,37.669,No,Enalapril,No,No,No,26.44628099173554,<40
+358,59.0,Male,Black,Not Hispanic or Latino,180.0,47.0,never,5241.565,3915.449,2924.84,1651.903,No,29.262,Yes,Enalapril,No,No,No,14.506172839506172,40-60
+359,21.0,Female,Pacific Islander,Not Hispanic or Latino,172.0,84.0,never,6244.923,4664.957,3484.723,1538.78,No,29.167,Yes,Enalapril,Yes,No,No,28.393726338561386,<40
+360,43.0,Male,Pacific Islander,Hispanic or Latino,194.0,44.0,former,6271.209,4684.593,3499.391,1615.256,No,33.203,Yes,Enalapril,No,No,No,11.690934211924754,40-60
+361,54.0,Female,Unknown,Hispanic or Latino,171.0,65.0,former,5637.967,4211.561,3146.036,1600.626,Yes,25.388,Yes,Enalapril,No,Yes,No,22.229061933586404,40-60
+362,71.0,Female,Other,Hispanic or Latino,162.0,79.0,never,6110.746,4564.727,3409.851,1708.25,Yes,37.675,Yes,Enalapril,No,No,No,30.102118579484827,>60
+363,43.0,Female,Other,Hispanic or Latino,209.0,75.0,former,6628.879,4951.773,3698.974,1381.838,No,31.231,No,Enalapril,No,No,No,17.16993658570088,40-60
+364,24.0,Female,Pacific Islander,Not Hispanic or Latino,160.0,45.0,current,5358.822,4003.04,2990.271,1822.192,No,38.001,No,Enalapril,No,No,No,17.578124999999996,<40
+365,36.0,Female,Black,Not Hispanic or Latino,171.0,111.0,former,6186.283,4621.153,3452.001,1501.622,No,29.083,Yes,Enalapril,No,No,No,37.960398071201396,<40
+366,26.0,Male,Black,Hispanic or Latino,161.0,93.0,never,5570.386,4161.078,3108.325,1415.907,Yes,28.924,Yes,Enalapril,No,No,No,35.878245438061796,<40
+367,29.0,Male,Black,Hispanic or Latino,183.0,89.0,current,5337.605,3987.191,2978.432,1710.462,Yes,36.86,Yes,Enalapril,No,No,No,26.575890590940304,<40
+368,47.0,Male,Other,Not Hispanic or Latino,165.0,74.0,former,6303.55,4708.752,3517.438,1728.007,No,27.757,Yes,Enalapril,No,No,No,27.180899908172638,40-60
+369,77.0,Male,Black,Hispanic or Latino,164.0,42.0,current,5951.981,4446.13,3321.259,1369.687,No,29.749,No,Enalapril,No,No,No,15.615704937537183,>60
+370,27.0,Male,Native American,Hispanic or Latino,186.0,75.0,former,5632.756,4207.669,3143.129,1334.549,No,28.836,No,Enalapril,No,No,No,21.678806798473808,<40
+371,73.0,Female,Black,Hispanic or Latino,208.0,116.0,former,5534.854,4134.536,3088.498,1580.97,Yes,29.538,Yes,Enalapril,No,No,No,26.81213017751479,>60
+372,53.0,Female,Black,Not Hispanic or Latino,161.0,93.0,never,5473.818,4088.942,3054.44,1534.396,No,25.724,No,Enalapril,Yes,No,No,35.878245438061796,40-60
+373,47.0,Male,Other,Not Hispanic or Latino,188.0,93.0,current,5322.215,3975.695,2969.844,1747.793,No,33.644,No,Enalapril,No,No,No,26.312811226799457,40-60
+374,46.0,Female,Caucasian,Hispanic or Latino,212.0,100.0,never,5908.622,4413.741,3297.065,1372.528,Yes,26.762,Yes,Enalapril,No,No,No,22.249911000355997,40-60
+375,72.0,Male,Native American,Hispanic or Latino,192.0,75.0,never,5315.058,3970.348,2965.85,1814.038,No,30.925,No,Enalapril,No,No,No,20.345052083333332,>60
+376,53.0,Female,Caucasian,Hispanic or Latino,166.0,49.0,former,7674.398,5732.775,4282.383,1570.772,No,25.423,Yes,Enalapril,No,No,No,17.78197125852809,40-60
+377,48.0,Female,Native American,Not Hispanic or Latino,179.0,69.0,former,5734.54,4283.701,3199.925,2090.864,Yes,30.692,No,Enalapril,No,No,No,21.534908398614277,40-60
+378,32.0,Female,Unknown,Not Hispanic or Latino,193.0,62.0,current,5320.066,3974.089,2968.644,1546.524,No,32.506,Yes,Enalapril,No,No,No,16.64474214072861,<40
+379,59.0,Female,Black,Hispanic or Latino,198.0,113.0,current,6474.583,4836.514,3612.876,1628.261,Yes,29.879,No,Enalapril,Yes,No,No,28.823589429650035,40-60
+380,48.0,Female,Unknown,Not Hispanic or Latino,212.0,68.0,current,6486.266,4845.241,3619.395,1525.571,No,31.641,Yes,Enalapril,No,No,No,15.129939480242077,40-60
+381,31.0,Female,Native American,Not Hispanic or Latino,183.0,106.0,never,7323.051,5470.319,4086.328,1508.574,Yes,27.812,Yes,Enalapril,No,Yes,No,31.652184299322162,<40
+382,53.0,Female,Black,Not Hispanic or Latino,174.0,84.0,current,6805.458,5083.677,3797.507,1658.929,No,34.616,No,Enalapril,No,No,No,27.74474831549742,40-60
+383,19.0,Female,Other,Hispanic or Latino,212.0,64.0,former,5945.63,4441.386,3317.715,1475.045,No,27.771,Yes,Enalapril,No,No,No,14.239943040227837,<40
+384,68.0,Male,Black,Hispanic or Latino,207.0,108.0,current,5277.14,3942.024,2944.692,1423.446,Yes,36.472,No,Enalapril,No,Yes,No,25.204788909892883,>60
+385,25.0,Female,Asian,Hispanic or Latino,174.0,88.0,never,5405.948,4038.243,3016.568,1382.352,No,37.747,Yes,Enalapril,Yes,No,No,29.065926806711587,<40
+386,55.0,Male,Other,Hispanic or Latino,180.0,44.0,former,6370.826,4759.007,3554.978,1323.232,No,34.648,Yes,Enalapril,No,No,No,13.580246913580247,40-60
+387,37.0,Male,Black,Not Hispanic or Latino,198.0,81.0,current,5625.017,4201.888,3138.81,1369.787,Yes,25.807,Yes,Enalapril,No,No,No,20.66115702479339,<40
+389,23.0,Female,Asian,Not Hispanic or Latino,185.0,109.0,never,5584.753,4171.81,3116.342,1757.065,Yes,28.745,Yes,Enalapril,No,No,No,31.84806428049671,<40
+391,77.0,Female,Caucasian,Not Hispanic or Latino,179.0,80.0,never,6150.191,4594.193,3431.862,1582.941,Yes,25.523,Yes,Enalapril,No,No,No,24.968009737523797,>60
+392,28.0,Female,Other,Not Hispanic or Latino,200.0,108.0,current,7069.185,5280.681,3944.669,1546.021,No,32.465,Yes,Enalapril,No,No,No,27.0,<40
+393,46.0,Female,Unknown,Not Hispanic or Latino,163.0,47.0,never,5548.864,4145.001,3096.316,1928.465,No,39.161,Yes,Enalapril,No,No,No,17.68978885166924,40-60
+394,49.0,Female,Asian,Hispanic or Latino,169.0,68.0,current,6977.077,5211.877,3893.272,2055.933,No,26.005,Yes,Enalapril,No,No,No,23.80869017191275,40-60
+395,56.0,Male,Black,Not Hispanic or Latino,208.0,106.0,current,5476.234,4090.747,3055.788,1526.936,No,31.862,Yes,Enalapril,No,No,No,24.500739644970412,40-60
+396,41.0,Female,Unknown,Hispanic or Latino,182.0,62.0,former,5896.338,4404.564,3290.209,1742.48,Yes,36.232,Yes,Enalapril,No,No,No,18.717546190073662,40-60
+398,51.0,Female,Pacific Islander,Not Hispanic or Latino,172.0,65.0,never,6939.097,5183.505,3872.078,1641.94,Yes,31.64,Yes,Enalapril,No,Yes,No,21.971335857220122,40-60
+399,29.0,Male,Native American,Hispanic or Latino,161.0,108.0,current,5450.44,4071.479,3041.395,1471.034,No,30.516,Yes,Enalapril,No,No,No,41.66505921839435,<40
+400,36.0,Male,Asian,Not Hispanic or Latino,161.0,63.0,never,5426.503,4053.598,3028.038,1647.209,No,32.409,Yes,Enalapril,No,No,No,24.3046178773967,<40
+401,74.0,Male,Native American,Hispanic or Latino,182.0,47.0,never,6485.057,4844.338,3618.72,1632.75,Yes,29.001,No,Enalapril,No,No,No,14.189107595701001,>60
+402,47.0,Female,Caucasian,Hispanic or Latino,212.0,68.0,never,8174.538,6106.38,4561.466,2169.539,Yes,26.074,No,Enalapril,Yes,Yes,No,15.129939480242077,40-60
+403,55.0,Female,Native American,Not Hispanic or Latino,197.0,68.0,never,6458.834,4824.749,3604.088,1560.48,Yes,28.588,No,Enalapril,No,No,No,17.52170888196037,40-60
+404,31.0,Female,Other,Not Hispanic or Latino,185.0,82.0,former,6496.1,4852.587,3624.882,1578.097,No,26.213,No,Enalapril,No,No,No,23.959094229364496,<40
+405,36.0,Female,Black,Hispanic or Latino,155.0,50.0,never,6086.433,4546.565,3396.284,2028.754,No,28.149,No,Enalapril,No,No,No,20.811654526534856,<40
+406,47.0,Male,Unknown,Not Hispanic or Latino,159.0,98.0,never,5998.388,4480.796,3347.155,1636.706,Yes,33.43,Yes,Enalapril,No,No,No,38.764289387286894,40-60
+407,20.0,Female,Pacific Islander,Hispanic or Latino,185.0,101.0,former,5835.336,4358.996,3256.17,1683.476,Yes,27.315,No,Enalapril,No,No,No,29.510591672753833,<40
+408,47.0,Female,Pacific Islander,Hispanic or Latino,196.0,57.0,never,5566.783,4158.387,3106.315,1330.923,No,28.219,No,Enalapril,No,No,No,14.83756768013328,40-60
+409,37.0,Female,Caucasian,Not Hispanic or Latino,163.0,44.0,current,6103.28,4559.15,3405.685,1378.326,Yes,25.836,Yes,Enalapril,No,No,No,16.560653393052053,<40
+410,62.0,Female,Other,Not Hispanic or Latino,158.0,48.0,former,6367.494,4756.518,3553.119,1479.383,No,32.661,Yes,Enalapril,No,No,No,19.227687870533565,>60
+411,37.0,Female,Asian,Not Hispanic or Latino,169.0,79.0,never,5633.334,4208.1,3143.451,1777.382,Yes,39.28,Yes,Enalapril,No,No,No,27.660095935016283,<40
+412,40.0,Female,Native American,Not Hispanic or Latino,164.0,57.0,never,7975.001,5957.326,4450.123,1308.628,Yes,37.12,No,Enalapril,No,No,No,21.192742415229034,40-60
+413,21.0,Male,Native American,Hispanic or Latino,157.0,46.0,former,6005.391,4486.027,3351.062,1309.283,No,34.186,Yes,Enalapril,No,No,No,18.662014686194166,<40
+414,68.0,Female,Native American,Not Hispanic or Latino,183.0,62.0,former,6372.009,4759.891,3555.639,1615.411,No,29.033,Yes,Enalapril,No,No,No,18.513541759980885,>60
+415,26.0,Female,Pacific Islander,Not Hispanic or Latino,174.0,51.0,current,5505.278,4112.443,3071.995,1783.758,Yes,29.603,No,Enalapril,No,Yes,No,16.84502576298058,<40
+416,38.0,Female,Pacific Islander,Not Hispanic or Latino,154.0,117.0,never,6873.157,5134.248,3835.283,1553.542,No,33.965,No,Enalapril,Yes,No,No,49.333783100016866,<40
+417,23.0,Female,Native American,Not Hispanic or Latino,184.0,86.0,current,6696.369,5002.188,3736.634,1447.757,Yes,34.757,Yes,Enalapril,No,No,No,25.401701323251416,<40
+418,30.0,Female,Unknown,Not Hispanic or Latino,157.0,40.0,current,8373.503,6255.007,4672.49,1852.522,Yes,26.145,Yes,Enalapril,No,No,No,16.227838857560144,<40
+419,18.0,Female,Unknown,Hispanic or Latino,212.0,109.0,former,6302.975,4708.322,3517.117,1482.947,Yes,34.045,No,Enalapril,No,No,No,24.252402990388035,<40
+420,65.0,Male,Asian,Not Hispanic or Latino,156.0,50.0,never,5522.511,4125.316,3081.611,1368.219,Yes,27.683,No,Enalapril,No,No,No,20.5456936226167,>60
+422,71.0,Female,Pacific Islander,Hispanic or Latino,167.0,50.0,never,6787.255,5070.079,3787.349,1389.54,Yes,31.955,No,Enalapril,No,No,No,17.92821542543655,>60
+424,76.0,Female,Caucasian,Not Hispanic or Latino,167.0,55.0,former,7574.351,5658.04,4226.556,1372.728,No,33.552,No,Enalapril,No,No,No,19.721036967980208,>60
+425,60.0,Male,Pacific Islander,Not Hispanic or Latino,189.0,60.0,current,5757.839,4301.106,3212.926,1619.845,Yes,35.656,No,Enalapril,Yes,No,No,16.79684219366759,>60
+426,76.0,Male,Asian,Hispanic or Latino,183.0,61.0,never,5827.895,4353.438,3252.018,1466.503,Yes,29.526,Yes,Enalapril,No,No,No,18.21493624772313,>60
+429,44.0,Male,Black,Not Hispanic or Latino,167.0,46.0,former,6860.193,5124.564,3828.049,1321.525,Yes,38.21,Yes,Enalapril,Yes,No,No,16.493958191401628,40-60
+430,32.0,Male,Other,Not Hispanic or Latino,192.0,95.0,never,7143.854,5336.459,3986.335,1300.3,No,30.48,No,Enalapril,Yes,No,No,25.770399305555557,<40
+431,35.0,Male,Caucasian,Not Hispanic or Latino,154.0,77.0,never,8241.729,6156.572,4598.959,1568.014,Yes,33.829,Yes,Enalapril,No,No,No,32.46753246753247,<40
+433,66.0,Male,Asian,Hispanic or Latino,202.0,89.0,current,8706.256,6503.573,4858.169,1349.963,No,25.612,Yes,Enalapril,No,No,No,21.81158709930399,>60
+436,29.0,Female,Black,Not Hispanic or Latino,166.0,97.0,former,5685.638,4247.172,3172.637,1335.023,No,39.134,No,Enalapril,No,No,No,35.20104514443316,<40
+437,31.0,Female,Black,Hispanic or Latino,189.0,104.0,never,5780.084,4317.723,3225.339,1331.766,No,28.421,Yes,Enalapril,No,No,No,29.114526469023826,<40
+438,70.0,Male,Native American,Hispanic or Latino,201.0,83.0,never,6517.287,4868.413,3636.705,1418.349,No,27.831,Yes,Enalapril,No,No,No,20.54404593945695,>60
+439,30.0,Male,Other,Hispanic or Latino,211.0,59.0,former,5781.72,4318.945,3226.252,1681.602,No,25.888,No,Enalapril,No,No,No,13.25217313178051,<40
+440,76.0,Female,Pacific Islander,Not Hispanic or Latino,154.0,72.0,never,7986.132,5965.641,4456.334,1678.019,Yes,36.001,No,Enalapril,No,No,No,30.35925113847192,>60
+441,45.0,Male,Caucasian,Hispanic or Latino,210.0,48.0,current,6966.557,5204.018,3887.401,1581.848,No,35.118,Yes,Enalapril,No,No,No,10.884353741496598,40-60
+442,55.0,Male,Black,Not Hispanic or Latino,186.0,119.0,former,5611.991,4192.157,3131.541,1365.098,Yes,33.752,No,Enalapril,No,Yes,No,34.39704012024511,40-60
+443,28.0,Male,Caucasian,Not Hispanic or Latino,182.0,116.0,former,5652.703,4222.569,3154.259,1464.783,Yes,30.81,No,Enalapril,No,No,No,35.019925129815235,<40
+444,50.0,Female,Black,Hispanic or Latino,196.0,57.0,former,6276.069,4688.224,3502.103,1401.984,No,29.282,Yes,Enalapril,No,No,No,14.83756768013328,40-60
+445,70.0,Female,Other,Hispanic or Latino,177.0,65.0,former,6397.267,4778.758,3569.732,1342.665,Yes,35.991,Yes,Enalapril,No,No,No,20.747550193111813,>60
+446,58.0,Female,Caucasian,Not Hispanic or Latino,205.0,94.0,current,5620.48,4198.499,3136.279,1554.576,No,31.222,No,Enalapril,No,No,No,22.367638310529447,40-60
+447,19.0,Male,Native American,Not Hispanic or Latino,176.0,43.0,never,6052.097,4520.916,3377.124,1844.787,Yes,38.01,Yes,Enalapril,No,No,No,13.881714876033058,<40
+448,25.0,Male,Caucasian,Not Hispanic or Latino,201.0,99.0,former,5814.3,4343.282,3244.432,1904.348,No,25.401,No,Enalapril,No,No,No,24.504343951882387,<40
+449,34.0,Male,Black,Not Hispanic or Latino,181.0,55.0,current,7826.844,5846.652,4367.449,1508.283,Yes,27.328,Yes,Enalapril,No,Yes,No,16.788254326791,<40
+450,60.0,Female,Black,Hispanic or Latino,208.0,90.0,never,6761.825,5051.083,3773.159,1672.91,Yes,35.261,Yes,Enalapril,No,No,No,20.802514792899405,>60
+451,55.0,Female,Pacific Islander,Not Hispanic or Latino,164.0,50.0,current,6955.155,5195.501,3881.039,1353.34,Yes,31.349,No,Enalapril,Yes,No,No,18.590124925639504,40-60
+453,49.0,Male,Caucasian,Not Hispanic or Latino,159.0,114.0,never,6227.027,4651.589,3474.737,1566.656,No,31.975,Yes,Enalapril,No,No,No,45.09315296072148,40-60
+454,77.0,Female,Native American,Not Hispanic or Latino,194.0,112.0,never,6718.492,5018.714,3748.979,1891.1,No,35.919,Yes,Enalapril,No,No,No,29.758741630353917,>60
+455,77.0,Female,Pacific Islander,Hispanic or Latino,191.0,86.0,current,7604.964,5680.908,4243.638,1683.695,Yes,29.59,Yes,Enalapril,Yes,No,No,23.573915188728378,>60
+456,46.0,Male,Unknown,Not Hispanic or Latino,166.0,93.0,current,7162.038,5350.042,3996.481,1475.394,No,33.172,Yes,Enalapril,No,No,No,33.74945565394107,40-60
+457,25.0,Female,Pacific Islander,Hispanic or Latino,171.0,81.0,never,5977.199,4464.968,3335.331,1401.302,No,28.82,No,Enalapril,No,No,No,27.70083102493075,<40
+458,25.0,Male,Black,Not Hispanic or Latino,153.0,108.0,former,5564.04,4156.338,3104.784,1483.71,Yes,35.018,Yes,Enalapril,No,No,No,46.1361014994233,<40
+459,43.0,Female,Unknown,Hispanic or Latino,185.0,57.0,current,7333.479,5478.109,4092.147,1607.228,No,30.548,Yes,Enalapril,No,No,No,16.654492330168004,40-60
+460,52.0,Female,Asian,Not Hispanic or Latino,153.0,86.0,never,6189.047,4623.218,3453.544,1596.689,No,27.877,Yes,Enalapril,No,No,No,36.73800674954077,40-60
+461,58.0,Female,Caucasian,Hispanic or Latino,206.0,54.0,current,5538.365,4137.159,3090.458,1557.904,Yes,33.263,Yes,Enalapril,No,No,No,12.725044773305685,40-60
+462,42.0,Male,Asian,Hispanic or Latino,163.0,106.0,current,5267.786,3935.036,2939.472,1340.851,Yes,28.259,No,Enalapril,Yes,No,No,39.89611953780722,40-60
+463,23.0,Male,Native American,Not Hispanic or Latino,168.0,105.0,current,6527.801,4876.267,3642.571,1433.418,No,28.46,Yes,Enalapril,No,No,No,37.202380952380956,<40
+464,53.0,Male,Native American,Hispanic or Latino,201.0,102.0,former,5456.91,4076.312,3045.005,1432.834,Yes,27.567,No,Enalapril,No,No,No,25.246899829212154,40-60
+465,56.0,Female,Native American,Hispanic or Latino,195.0,41.0,current,7206.366,5383.155,4021.217,1317.767,No,30.283,Yes,Enalapril,No,No,No,10.782380013149245,40-60
+466,35.0,Female,Unknown,Hispanic or Latino,180.0,90.0,current,5565.524,4157.446,3105.612,1462.211,Yes,26.307,Yes,Enalapril,No,No,No,27.777777777777775,<40
+467,70.0,Female,Black,Not Hispanic or Latino,185.0,40.0,current,5541.587,4139.565,3092.255,1517.636,No,35.388,Yes,Enalapril,No,No,Yes,11.68736303871439,>60
+468,72.0,Male,Caucasian,Not Hispanic or Latino,192.0,59.0,current,6467.67,4831.349,3609.018,1445.278,Yes,26.43,Yes,Enalapril,No,No,No,16.004774305555557,>60
+469,45.0,Male,Unknown,Hispanic or Latino,173.0,66.0,never,5489.136,4100.385,3062.988,1541.971,Yes,33.526,Yes,Enalapril,No,No,No,22.052190183434128,40-60
+471,54.0,Female,Asian,Hispanic or Latino,198.0,60.0,current,7727.447,5772.403,4311.985,1390.321,No,37.936,No,Enalapril,Yes,No,No,15.304560759106215,40-60
+473,56.0,Male,Caucasian,Hispanic or Latino,186.0,106.0,former,5937.223,4435.106,3313.024,1444.231,No,29.641,Yes,Enalapril,No,No,No,30.63938027517632,40-60
+474,56.0,Female,Native American,Not Hispanic or Latino,155.0,66.0,never,5300.35,3959.361,2957.643,1492.092,No,28.371,No,Enalapril,No,Yes,No,27.47138397502601,40-60
+475,29.0,Female,Asian,Hispanic or Latino,168.0,107.0,never,5335.882,3985.904,2977.47,1387.982,Yes,30.505,Yes,Enalapril,No,No,No,37.91099773242631,<40
+476,43.0,Male,Black,Hispanic or Latino,158.0,101.0,current,5935.403,4433.746,3312.008,1363.809,Yes,29.403,Yes,Enalapril,No,No,No,40.45825989424771,40-60
+477,73.0,Male,Unknown,Hispanic or Latino,171.0,109.0,current,6043.265,4514.319,3372.196,1676.095,No,29.737,No,Enalapril,No,No,No,37.27642693478336,>60
+478,25.0,Male,Pacific Islander,Hispanic or Latino,188.0,56.0,former,6208.361,4637.646,3464.322,1600.297,Yes,32.261,No,Enalapril,No,No,No,15.844273426889997,<40
+479,22.0,Female,Caucasian,Hispanic or Latino,178.0,117.0,former,6160.753,4602.082,3437.755,1469.335,No,27.661,No,Enalapril,Yes,No,No,36.92715566216387,<40
+481,18.0,Male,Unknown,Not Hispanic or Latino,168.0,111.0,current,5589.568,4175.407,3119.029,1503.695,No,28.689,Yes,Enalapril,No,Yes,No,39.32823129251701,<40
+482,23.0,Female,Unknown,Not Hispanic or Latino,190.0,110.0,former,5636.555,4210.507,3145.249,1365.127,Yes,27.471,Yes,Enalapril,No,No,No,30.470914127423825,<40
+483,49.0,Male,Black,Hispanic or Latino,171.0,72.0,current,5781.583,4318.843,3226.176,1432.06,Yes,27.263,Yes,Enalapril,Yes,No,No,24.622960911049557,40-60
+484,45.0,Male,Pacific Islander,Not Hispanic or Latino,205.0,104.0,never,6177.398,4614.516,3447.043,1373.845,No,26.983,No,Enalapril,No,No,No,24.747174301011306,40-60
+485,35.0,Female,Pacific Islander,Hispanic or Latino,171.0,87.0,current,6839.304,5108.96,3816.393,1724.384,Yes,31.345,Yes,Enalapril,No,Yes,No,29.75274443418488,<40
+486,18.0,Male,Caucasian,Not Hispanic or Latino,187.0,60.0,never,5555.224,4149.752,3099.865,1488.91,Yes,31.293,No,Enalapril,No,No,No,17.158054276645025,<40
+487,30.0,Male,Caucasian,Hispanic or Latino,181.0,51.0,current,6455.411,4822.192,3602.177,1407.1,Yes,34.773,No,Enalapril,No,No,No,15.567290375751655,<40
+489,63.0,Female,Native American,Not Hispanic or Latino,168.0,70.0,current,5725.031,4276.598,3194.619,1625.678,No,39.504,Yes,Enalapril,No,No,No,24.801587301587304,>60
+490,60.0,Female,Caucasian,Not Hispanic or Latino,170.0,103.0,current,6925.463,5173.321,3864.471,1384.078,No,30.19,Yes,Enalapril,No,No,No,35.6401384083045,>60
+491,35.0,Male,Caucasian,Hispanic or Latino,181.0,75.0,former,5694.68,4253.926,3177.683,1825.529,Yes,32.145,No,Enalapril,No,No,No,22.89307408198773,<40
+492,38.0,Female,Caucasian,Not Hispanic or Latino,157.0,107.0,never,5801.205,4333.5,3237.124,1360.686,Yes,33.864,No,Enalapril,Yes,No,No,43.40946894397339,<40
+493,62.0,Female,Native American,Hispanic or Latino,181.0,53.0,never,5545.837,4142.74,3094.627,1464.235,No,30.594,Yes,Enalapril,No,No,No,16.17777235127133,>60
+494,28.0,Female,Other,Not Hispanic or Latino,201.0,88.0,never,6258.061,4674.772,3492.055,1414.54,Yes,35.695,No,Enalapril,Yes,No,No,21.7816390683399,<40
+495,55.0,Female,Other,Not Hispanic or Latino,206.0,58.0,current,5623.152,4200.495,3137.77,1787.291,Yes,28.374,No,Enalapril,No,No,No,13.667640682439439,40-60
+496,50.0,Female,Other,Hispanic or Latino,183.0,53.0,former,5357.146,4001.788,2989.336,1490.273,Yes,29.322,No,Enalapril,No,No,No,15.826092149661081,40-60
+497,79.0,Female,Unknown,Hispanic or Latino,195.0,99.0,never,6895.111,5150.648,3847.534,1427.88,No,25.116,Yes,Enalapril,No,No,No,26.035502958579883,>60
+499,59.0,Male,Caucasian,Not Hispanic or Latino,212.0,89.0,former,8171.447,6104.071,4559.741,1450.686,Yes,30.031,No,Enalapril,No,No,No,19.802420790316837,40-60
+500,31.0,Female,Caucasian,Hispanic or Latino,182.0,117.0,never,6524.198,3477.398,1853.453,1514.65,No,30.774,Yes,Sacubitril-valsartan,Yes,No,No,35.32182103610675,<40
+501,55.0,Male,Other,Hispanic or Latino,163.0,107.0,current,6258.799,3335.94,1778.056,1542.746,No,29.596,Yes,Sacubitril-valsartan,No,No,No,40.27249802401295,40-60
+502,35.0,Female,Unknown,Not Hispanic or Latino,203.0,105.0,never,6636.676,3537.348,1885.406,1778.284,No,37.251,Yes,Sacubitril-valsartan,No,No,No,25.479870901987436,<40
+503,58.0,Male,Caucasian,Hispanic or Latino,156.0,91.0,never,5760.825,3070.52,1636.587,1387.684,Yes,29.331,Yes,Sacubitril-valsartan,No,No,No,37.39316239316239,40-60
+504,21.0,Female,Asian,Not Hispanic or Latino,199.0,74.0,current,6418.68,3421.156,1823.476,1354.177,Yes,33.725,Yes,Sacubitril-valsartan,No,No,No,18.68639680816141,<40
+505,18.0,Female,Other,Not Hispanic or Latino,158.0,111.0,former,6233.825,3322.629,1770.961,1361.994,Yes,28.239,Yes,Sacubitril-valsartan,Yes,No,No,44.46402820060887,<40
+506,52.0,Male,Native American,Not Hispanic or Latino,186.0,53.0,current,6485.798,3456.93,1842.544,1439.98,Yes,37.654,Yes,Sacubitril-valsartan,No,No,No,15.31969013758816,40-60
+507,76.0,Male,Unknown,Hispanic or Latino,199.0,42.0,never,6120.597,3262.278,1738.794,1794.02,Yes,35.171,No,Sacubitril-valsartan,Yes,No,No,10.60579278301053,>60
+508,73.0,Male,Asian,Hispanic or Latino,156.0,53.0,current,6456.553,3441.343,1834.236,1556.401,Yes,33.606,Yes,Sacubitril-valsartan,No,No,No,21.7784352399737,>60
+509,40.0,Female,Unknown,Hispanic or Latino,172.0,74.0,former,5391.338,2873.583,1531.62,1617.596,No,29.397,Yes,Sacubitril-valsartan,No,No,No,25.013520822065985,40-60
+510,72.0,Male,Native American,Hispanic or Latino,152.0,73.0,former,6479.26,3453.446,1840.687,1402.238,Yes,36.324,No,Sacubitril-valsartan,No,No,No,31.596260387811633,>60
+511,54.0,Male,Black,Hispanic or Latino,192.0,117.0,former,6107.893,3255.507,1735.185,1574.519,Yes,28.117,No,Sacubitril-valsartan,No,No,No,31.73828125,40-60
+512,79.0,Female,Black,Not Hispanic or Latino,175.0,113.0,never,6015.511,3206.267,1708.94,1716.664,No,25.546,Yes,Sacubitril-valsartan,No,No,No,36.89795918367347,>60
+513,47.0,Male,Black,Hispanic or Latino,182.0,72.0,former,6616.356,3526.518,1879.634,1768.955,Yes,36.486,Yes,Sacubitril-valsartan,No,No,No,21.736505252988767,40-60
+514,43.0,Female,Other,Not Hispanic or Latino,199.0,60.0,former,5299.004,2824.369,1505.389,1391.393,No,25.42,No,Sacubitril-valsartan,No,No,No,15.1511325471579,40-60
+515,71.0,Female,Pacific Islander,Not Hispanic or Latino,164.0,108.0,former,5290.598,2819.889,1503.001,1430.932,No,35.245,No,Sacubitril-valsartan,No,No,No,40.15466983938133,>60
+516,32.0,Female,Native American,Not Hispanic or Latino,188.0,78.0,former,6872.832,3663.219,1952.496,1741.0,No,31.916,No,Sacubitril-valsartan,No,Yes,No,22.068809416025353,<40
+517,57.0,Male,Caucasian,Not Hispanic or Latino,183.0,65.0,never,7853.081,4185.692,2230.974,1517.689,No,33.339,No,Sacubitril-valsartan,No,Yes,No,19.409358296754156,40-60
+518,52.0,Male,Unknown,Hispanic or Latino,200.0,48.0,current,6441.044,3433.076,1829.83,1320.586,Yes,27.917,Yes,Sacubitril-valsartan,No,No,No,12.0,40-60
+519,38.0,Male,Black,Not Hispanic or Latino,166.0,114.0,current,6669.183,3554.675,1894.642,1503.72,Yes,37.485,Yes,Sacubitril-valsartan,No,No,No,41.370300479024536,<40
+520,39.0,Male,Other,Hispanic or Latino,184.0,83.0,former,6024.86,3211.25,1711.596,1571.611,Yes,35.106,No,Sacubitril-valsartan,No,No,No,24.515595463137995,<40
+521,41.0,Male,Native American,Hispanic or Latino,202.0,109.0,never,7015.052,3739.023,1992.899,1347.253,No,27.374,No,Sacubitril-valsartan,No,No,No,26.713067346338594,40-60
+522,51.0,Male,Black,Not Hispanic or Latino,163.0,48.0,never,6092.948,3247.541,1730.939,1448.557,Yes,37.9,Yes,Sacubitril-valsartan,No,No,No,18.06616733787497,40-60
+523,24.0,Female,Other,Not Hispanic or Latino,191.0,56.0,never,5456.876,2908.515,1550.238,1503.904,Yes,27.4,No,Sacubitril-valsartan,No,No,No,15.350456401962665,<40
+524,26.0,Female,Caucasian,Not Hispanic or Latino,197.0,111.0,former,5729.637,3053.897,1627.727,1677.091,No,28.005,Yes,Sacubitril-valsartan,No,No,No,28.6016130279059,<40
+525,22.0,Male,Other,Not Hispanic or Latino,161.0,85.0,former,5936.779,3164.303,1686.573,1720.212,No,34.417,No,Sacubitril-valsartan,No,No,No,32.79194475521777,<40
+526,25.0,Male,Caucasian,Hispanic or Latino,154.0,99.0,former,5802.018,3092.476,1648.29,1674.094,Yes,31.503,No,Sacubitril-valsartan,No,No,No,41.74397031539889,<40
+528,46.0,Male,Unknown,Not Hispanic or Latino,165.0,80.0,never,6825.054,3637.754,1938.923,1341.674,Yes,27.757,No,Sacubitril-valsartan,Yes,No,No,29.384756657483933,40-60
+529,45.0,Male,Native American,Hispanic or Latino,154.0,69.0,never,6178.127,3292.942,1755.138,2160.064,No,26.366,No,Sacubitril-valsartan,Yes,No,No,29.094282341035587,40-60
+530,67.0,Male,Asian,Not Hispanic or Latino,179.0,89.0,current,5579.556,2973.903,1585.09,1310.561,Yes,29.862,Yes,Sacubitril-valsartan,No,No,No,27.776910832995224,>60
+531,18.0,Male,Other,Not Hispanic or Latino,203.0,56.0,former,5851.93,3119.079,1662.469,1432.659,Yes,29.068,No,Sacubitril-valsartan,No,Yes,No,13.589264481059967,<40
+532,31.0,Female,Black,Not Hispanic or Latino,170.0,101.0,former,5436.595,2897.705,1544.477,1771.333,No,29.707,No,Sacubitril-valsartan,No,No,No,34.94809688581315,<40
+534,40.0,Male,Unknown,Hispanic or Latino,210.0,97.0,current,6704.801,3573.659,1904.76,1560.42,No,26.743,Yes,Sacubitril-valsartan,No,No,No,21.99546485260771,40-60
+535,37.0,Male,Asian,Not Hispanic or Latino,211.0,75.0,current,5881.089,3134.62,1670.752,1682.973,No,26.844,No,Sacubitril-valsartan,No,No,No,16.84598279463624,<40
+536,41.0,Female,Native American,Hispanic or Latino,184.0,106.0,never,7236.081,3856.831,2055.691,1440.173,Yes,28.989,Yes,Sacubitril-valsartan,Yes,No,No,31.30907372400756,40-60
+537,70.0,Female,Pacific Islander,Not Hispanic or Latino,157.0,49.0,former,5301.649,2825.779,1506.14,1625.276,Yes,36.366,No,Sacubitril-valsartan,Yes,Yes,No,19.879102600511175,>60
+538,60.0,Female,Asian,Not Hispanic or Latino,198.0,89.0,never,6742.329,3593.661,1915.421,1385.393,No,27.335,No,Sacubitril-valsartan,No,No,No,22.70176512600755,>60
+539,30.0,Male,Asian,Hispanic or Latino,187.0,58.0,current,6878.567,3666.276,1954.125,1553.359,Yes,28.257,No,Sacubitril-valsartan,No,No,No,16.586119134090193,<40
+540,47.0,Female,Asian,Not Hispanic or Latino,192.0,117.0,former,7336.642,3910.43,2084.259,1354.492,No,32.635,Yes,Sacubitril-valsartan,No,No,No,31.73828125,40-60
+541,61.0,Male,Pacific Islander,Hispanic or Latino,173.0,102.0,current,6008.569,3202.567,1706.968,1605.862,No,29.645,Yes,Sacubitril-valsartan,No,No,No,34.08065755621638,>60
+543,40.0,Male,Other,Hispanic or Latino,191.0,54.0,never,6699.408,3570.784,1903.228,1324.193,Yes,27.319,Yes,Sacubitril-valsartan,No,No,No,14.802225816178286,40-60
+544,28.0,Female,Other,Hispanic or Latino,191.0,93.0,never,8090.912,4312.456,2298.539,1526.151,Yes,25.743,Yes,Sacubitril-valsartan,No,No,No,25.492722238973712,<40
+545,38.0,Female,Native American,Hispanic or Latino,185.0,106.0,current,5755.334,3067.593,1635.027,1389.365,Yes,29.859,No,Sacubitril-valsartan,Yes,No,Yes,30.97151205259313,<40
+546,39.0,Female,Pacific Islander,Not Hispanic or Latino,177.0,46.0,former,7985.59,4256.319,2268.618,1460.76,Yes,29.748,Yes,Sacubitril-valsartan,No,No,No,14.682881675125282,<40
+547,45.0,Male,Other,Not Hispanic or Latino,171.0,49.0,current,5878.071,3133.012,1669.895,1572.852,Yes,26.543,No,Sacubitril-valsartan,Yes,No,No,16.75729284224206,40-60
+548,58.0,Male,Native American,Not Hispanic or Latino,152.0,66.0,never,6581.659,3508.024,1869.777,1330.166,No,33.791,Yes,Sacubitril-valsartan,No,Yes,No,28.566481994459835,40-60
+550,47.0,Male,Black,Not Hispanic or Latino,188.0,93.0,former,5346.549,2849.711,1518.896,1618.19,Yes,33.427,No,Sacubitril-valsartan,Yes,Yes,No,26.312811226799457,40-60
+551,19.0,Female,Asian,Not Hispanic or Latino,204.0,56.0,never,6666.521,3553.256,1893.885,1509.474,Yes,31.044,Yes,Sacubitril-valsartan,Yes,No,No,13.456362937331795,<40
+552,79.0,Female,Black,Hispanic or Latino,193.0,66.0,former,5778.918,3080.163,1641.727,1929.158,No,30.424,Yes,Sacubitril-valsartan,No,No,No,17.718596472388523,>60
+553,29.0,Female,Caucasian,Not Hispanic or Latino,194.0,114.0,current,6467.374,3447.11,1837.31,1471.204,No,29.946,Yes,Sacubitril-valsartan,No,No,No,30.290147730895953,<40
+554,76.0,Male,Black,Hispanic or Latino,199.0,50.0,former,6398.978,3410.655,1817.879,1620.345,Yes,31.306,Yes,Sacubitril-valsartan,No,No,No,12.62594378929825,>60
+555,58.0,Female,Caucasian,Not Hispanic or Latino,202.0,115.0,former,6292.526,3353.916,1787.637,1586.08,No,34.811,Yes,Sacubitril-valsartan,No,No,No,28.183511420448976,40-60
+556,27.0,Female,Native American,Hispanic or Latino,198.0,77.0,former,5381.724,2868.459,1528.889,1538.949,No,34.048,Yes,Sacubitril-valsartan,No,Yes,No,19.64085297418631,<40
+557,26.0,Male,Pacific Islander,Hispanic or Latino,173.0,109.0,never,6051.606,3225.506,1719.195,1695.826,Yes,35.406,Yes,Sacubitril-valsartan,No,No,No,36.41952621203515,<40
+558,37.0,Male,Caucasian,Hispanic or Latino,200.0,106.0,former,6373.187,3396.909,1810.552,1300.792,No,32.316,Yes,Sacubitril-valsartan,No,No,No,26.5,<40
+559,48.0,Male,Pacific Islander,Not Hispanic or Latino,181.0,104.0,never,5537.043,2951.244,1573.013,1398.344,No,35.717,Yes,Sacubitril-valsartan,No,No,No,31.745062727022983,40-60
+560,21.0,Female,Native American,Hispanic or Latino,187.0,50.0,never,5346.427,2849.646,1518.861,1439.181,No,36.666,No,Sacubitril-valsartan,No,No,No,14.298378563870855,<40
+561,33.0,Male,Native American,Not Hispanic or Latino,196.0,119.0,current,5656.08,3014.691,1606.83,1351.891,Yes,36.762,No,Sacubitril-valsartan,Yes,No,No,30.976676384839653,<40
+562,67.0,Female,Native American,Hispanic or Latino,153.0,112.0,former,6650.174,3544.543,1889.241,1337.196,No,26.115,No,Sacubitril-valsartan,No,No,No,47.84484599940194,>60
+563,76.0,Female,Asian,Not Hispanic or Latino,152.0,68.0,former,6010.751,3203.73,1707.588,1553.84,Yes,30.264,No,Sacubitril-valsartan,No,No,No,29.43213296398892,>60
+565,22.0,Female,Native American,Not Hispanic or Latino,202.0,108.0,current,6005.816,3201.1,1706.186,1458.322,Yes,34.016,Yes,Sacubitril-valsartan,No,No,No,26.467993333986865,<40
+566,69.0,Female,Caucasian,Hispanic or Latino,191.0,81.0,current,8775.879,4677.544,2493.131,1361.951,Yes,37.873,Yes,Sacubitril-valsartan,No,No,No,22.20333872426743,>60
+567,20.0,Male,Pacific Islander,Not Hispanic or Latino,202.0,79.0,current,5429.652,2894.005,1542.505,1401.827,Yes,36.547,Yes,Sacubitril-valsartan,No,No,No,19.360846975786686,<40
+569,75.0,Female,Unknown,Hispanic or Latino,193.0,96.0,never,5280.399,2814.453,1500.103,1520.272,Yes,33.372,Yes,Sacubitril-valsartan,No,No,No,25.77250395983785,>60
+570,37.0,Female,Pacific Islander,Not Hispanic or Latino,194.0,60.0,current,6349.579,3384.326,1803.846,1319.542,No,35.378,Yes,Sacubitril-valsartan,No,No,No,15.942183016261028,<40
+571,47.0,Female,Native American,Hispanic or Latino,199.0,42.0,former,5806.438,3094.831,1649.545,1364.378,No,28.516,Yes,Sacubitril-valsartan,No,No,No,10.60579278301053,40-60
+572,35.0,Male,Other,Hispanic or Latino,173.0,87.0,current,6829.39,3640.065,1940.155,1813.638,Yes,37.879,Yes,Sacubitril-valsartan,No,No,Yes,29.06879615089044,<40
+573,73.0,Female,Native American,Hispanic or Latino,178.0,108.0,current,6207.219,3308.448,1763.403,1385.35,No,26.075,Yes,Sacubitril-valsartan,Yes,No,No,34.086605226612804,>60
+574,38.0,Male,Caucasian,Not Hispanic or Latino,168.0,116.0,current,6853.233,3652.773,1946.928,1531.757,Yes,27.137,No,Sacubitril-valsartan,Yes,No,No,41.09977324263039,<40
+575,58.0,Female,Caucasian,Hispanic or Latino,183.0,118.0,former,6476.39,3451.916,1839.871,1793.98,Yes,35.204,No,Sacubitril-valsartan,Yes,No,No,35.235450446415236,40-60
+576,31.0,Female,Black,Not Hispanic or Latino,193.0,117.0,current,6682.006,3561.509,1898.284,1342.716,Yes,31.02,Yes,Sacubitril-valsartan,No,Yes,No,31.410239201052377,<40
+577,27.0,Male,Unknown,Not Hispanic or Latino,195.0,119.0,current,5912.008,3151.1,1679.536,1759.026,Yes,30.8,Yes,Sacubitril-valsartan,No,No,No,31.295200525969758,<40
+578,77.0,Female,Other,Hispanic or Latino,169.0,51.0,former,7129.323,3799.929,2025.362,1801.262,Yes,35.017,Yes,Sacubitril-valsartan,No,No,No,17.856517628934565,>60
+581,72.0,Female,Unknown,Hispanic or Latino,159.0,81.0,current,5581.242,2974.802,1585.569,1724.85,No,32.652,No,Sacubitril-valsartan,No,No,No,32.03987184051263,>60
+582,27.0,Male,Native American,Not Hispanic or Latino,212.0,117.0,never,5515.898,2939.974,1567.006,1435.673,No,26.814,No,Sacubitril-valsartan,No,Yes,No,26.032395870416515,<40
+583,73.0,Male,Pacific Islander,Hispanic or Latino,156.0,69.0,current,5754.283,3067.033,1634.729,1446.614,Yes,27.817,Yes,Sacubitril-valsartan,No,No,No,28.353057199211044,>60
+585,70.0,Female,Black,Not Hispanic or Latino,191.0,107.0,current,5823.84,3104.107,1654.489,1403.205,Yes,28.171,Yes,Sacubitril-valsartan,No,No,No,29.33033633946438,>60
+587,72.0,Female,Unknown,Hispanic or Latino,190.0,44.0,current,5477.618,2919.57,1556.131,1320.806,Yes,26.232,Yes,Sacubitril-valsartan,No,Yes,No,12.18836565096953,>60
+588,38.0,Male,Native American,Not Hispanic or Latino,160.0,98.0,never,6676.852,3558.762,1896.82,1678.804,Yes,30.271,No,Sacubitril-valsartan,No,No,No,38.28124999999999,<40
+589,25.0,Female,Caucasian,Hispanic or Latino,152.0,67.0,current,5798.506,3090.604,1647.292,1620.187,No,27.467,Yes,Sacubitril-valsartan,No,No,No,28.999307479224377,<40
+590,52.0,Male,Caucasian,Not Hispanic or Latino,182.0,116.0,former,6027.264,3212.532,1712.28,1582.246,Yes,36.583,No,Sacubitril-valsartan,No,No,No,35.019925129815235,40-60
+591,23.0,Female,Black,Not Hispanic or Latino,178.0,113.0,current,6535.796,3483.579,1856.748,1763.23,Yes,34.467,Yes,Sacubitril-valsartan,No,Yes,No,35.66468880191895,<40
+592,53.0,Male,Asian,Not Hispanic or Latino,177.0,115.0,never,5423.781,2890.875,1540.836,1691.725,No,28.103,Yes,Sacubitril-valsartan,No,No,No,36.707204187813204,40-60
+593,66.0,Female,Black,Not Hispanic or Latino,171.0,54.0,current,5408.512,2882.737,1536.499,1339.219,No,28.813,Yes,Sacubitril-valsartan,No,No,No,18.467220683287167,>60
+594,28.0,Male,Asian,Hispanic or Latino,179.0,61.0,former,6034.536,3216.408,1714.345,1537.449,No,29.433,Yes,Sacubitril-valsartan,No,Yes,No,19.038107424861895,<40
+595,32.0,Male,Pacific Islander,Hispanic or Latino,191.0,98.0,never,7322.139,3902.7,2080.139,2027.388,Yes,25.814,Yes,Sacubitril-valsartan,Yes,No,No,26.863298703434666,<40
+596,57.0,Female,Asian,Hispanic or Latino,181.0,98.0,never,5620.735,2995.852,1596.789,1419.366,No,27.441,No,Sacubitril-valsartan,No,No,No,29.913616800463966,40-60
+597,29.0,Female,Pacific Islander,Hispanic or Latino,172.0,50.0,former,5326.664,2839.112,1513.247,1754.625,Yes,25.419,No,Sacubitril-valsartan,No,No,No,16.901027582477017,<40
+598,60.0,Female,Native American,Hispanic or Latino,201.0,102.0,never,6086.724,3244.224,1729.171,1538.201,Yes,30.465,Yes,Sacubitril-valsartan,No,No,No,25.246899829212154,>60
+599,68.0,Male,Other,Hispanic or Latino,165.0,117.0,former,6054.226,3226.902,1719.939,1564.321,Yes,32.357,No,Sacubitril-valsartan,No,No,No,42.97520661157025,>60
+600,79.0,Male,Caucasian,Not Hispanic or Latino,209.0,43.0,current,5398.563,2877.434,1533.672,1341.784,No,39.437,Yes,Sacubitril-valsartan,No,Yes,No,9.844096975801838,>60
+601,72.0,Female,Other,Hispanic or Latino,157.0,113.0,former,7959.235,4242.272,2261.131,1448.922,No,37.782,Yes,Sacubitril-valsartan,No,No,No,45.843644772607405,>60
+602,27.0,Male,Unknown,Not Hispanic or Latino,205.0,56.0,never,5290.043,2819.593,1502.843,1374.159,Yes,27.173,No,Sacubitril-valsartan,No,No,Yes,13.325401546698394,<40
+603,49.0,Male,Black,Hispanic or Latino,157.0,63.0,former,6180.711,3294.319,1755.872,1397.072,No,26.073,Yes,Sacubitril-valsartan,No,Yes,No,25.558846200657225,40-60
+604,21.0,Female,Unknown,Hispanic or Latino,207.0,111.0,never,7002.423,3732.291,1989.311,1387.293,Yes,28.655,Yes,Sacubitril-valsartan,No,Yes,No,25.904921935167685,<40
+605,32.0,Male,Pacific Islander,Not Hispanic or Latino,156.0,94.0,former,5411.202,2884.171,1537.263,1428.578,Yes,35.657,Yes,Sacubitril-valsartan,No,No,No,38.62590401051939,<40
+606,63.0,Female,Other,Not Hispanic or Latino,185.0,48.0,former,5441.331,2900.229,1545.822,1611.243,No,29.776,No,Sacubitril-valsartan,No,No,No,14.024835646457266,>60
+607,55.0,Male,Unknown,Not Hispanic or Latino,194.0,63.0,former,6741.235,3593.078,1915.111,1632.675,No,32.989,No,Sacubitril-valsartan,No,No,No,16.73929216707408,40-60
+608,51.0,Female,Pacific Islander,Not Hispanic or Latino,199.0,91.0,never,5909.804,3149.926,1678.911,1749.385,Yes,36.342,No,Sacubitril-valsartan,No,No,No,22.979217696522813,40-60
+609,46.0,Female,Unknown,Not Hispanic or Latino,180.0,106.0,never,6233.061,3322.222,1770.744,1776.216,No,29.285,Yes,Sacubitril-valsartan,Yes,No,No,32.716049382716044,40-60
+611,51.0,Female,Asian,Not Hispanic or Latino,176.0,100.0,current,5253.066,2799.884,1492.338,1473.197,Yes,27.186,Yes,Sacubitril-valsartan,No,No,No,32.28305785123967,40-60
+612,32.0,Female,Other,Not Hispanic or Latino,192.0,89.0,current,7042.809,3753.817,2000.784,1709.09,Yes,26.853,Yes,Sacubitril-valsartan,No,No,No,24.14279513888889,<40
+613,71.0,Female,Asian,Hispanic or Latino,175.0,113.0,current,5704.712,3040.611,1620.646,1354.558,No,31.163,Yes,Sacubitril-valsartan,No,No,No,36.89795918367347,>60
+614,76.0,Male,Native American,Hispanic or Latino,157.0,94.0,never,7341.465,3913.001,2085.63,1306.803,Yes,28.994,Yes,Sacubitril-valsartan,No,No,No,38.135421315266335,>60
+615,21.0,Male,Unknown,Hispanic or Latino,152.0,78.0,current,7418.602,3954.115,2107.543,1325.305,No,36.33,No,Sacubitril-valsartan,No,No,No,33.76038781163435,<40
+616,27.0,Female,Unknown,Hispanic or Latino,185.0,85.0,current,6573.395,3503.62,1867.429,1939.349,Yes,34.228,No,Sacubitril-valsartan,No,No,No,24.835646457268076,<40
+617,47.0,Male,Black,Hispanic or Latino,206.0,69.0,current,5627.307,2999.355,1598.656,1423.973,No,29.754,Yes,Sacubitril-valsartan,No,No,No,16.259779432557263,40-60
+618,75.0,Male,Unknown,Not Hispanic or Latino,208.0,100.0,never,6159.96,3283.259,1749.977,2067.335,Yes,25.591,Yes,Sacubitril-valsartan,Yes,No,No,23.113905325443785,>60
+619,31.0,Female,Native American,Hispanic or Latino,158.0,108.0,never,5225.338,2785.105,1484.461,1500.17,No,39.712,No,Sacubitril-valsartan,No,No,No,43.26229770870052,<40
+620,67.0,Female,Pacific Islander,Hispanic or Latino,199.0,57.0,current,5233.874,2789.655,1486.886,1420.901,No,25.071,Yes,Sacubitril-valsartan,Yes,No,No,14.393575919800005,>60
+621,33.0,Female,Native American,Hispanic or Latino,211.0,74.0,never,6428.718,3426.507,1826.328,1865.071,No,39.121,Yes,Sacubitril-valsartan,No,No,No,16.621369690707755,<40
+622,41.0,Female,Asian,Not Hispanic or Latino,190.0,41.0,never,5861.201,3124.02,1665.103,1733.724,Yes,32.044,No,Sacubitril-valsartan,Yes,No,No,11.357340720221607,40-60
+624,19.0,Female,Unknown,Not Hispanic or Latino,173.0,51.0,former,6003.505,3199.868,1705.53,1616.982,Yes,33.322,Yes,Sacubitril-valsartan,No,No,No,17.04032877810819,<40
+625,64.0,Female,Asian,Hispanic or Latino,171.0,91.0,never,6039.461,3219.033,1715.745,1789.937,No,33.178,No,Sacubitril-valsartan,No,No,No,31.120686707020965,>60
+627,46.0,Female,Black,Not Hispanic or Latino,188.0,42.0,former,5551.482,2958.94,1577.115,1632.446,No,28.292,Yes,Sacubitril-valsartan,No,No,No,11.883205070167497,40-60
+628,21.0,Male,Asian,Hispanic or Latino,161.0,75.0,current,5573.551,2970.703,1583.385,1479.336,No,25.517,Yes,Sacubitril-valsartan,No,No,No,28.93406890166274,<40
+629,36.0,Female,Native American,Hispanic or Latino,180.0,56.0,never,5347.636,2850.29,1519.205,1436.721,Yes,26.607,No,Sacubitril-valsartan,No,No,No,17.28395061728395,<40
+630,74.0,Female,Black,Hispanic or Latino,194.0,95.0,former,5787.369,3084.668,1644.128,1401.794,No,28.904,No,Sacubitril-valsartan,Yes,No,No,25.241789775746625,>60
+631,32.0,Male,Unknown,Hispanic or Latino,168.0,106.0,never,5535.052,2950.183,1572.448,1581.384,No,29.013,Yes,Sacubitril-valsartan,No,No,No,37.55668934240364,<40
+632,18.0,Female,Caucasian,Hispanic or Latino,199.0,93.0,current,6358.112,3388.874,1806.27,1626.644,Yes,39.444,Yes,Sacubitril-valsartan,No,No,No,23.484255448094743,<40
+633,34.0,Male,Unknown,Not Hispanic or Latino,160.0,54.0,never,6228.996,3320.055,1769.589,1407.365,No,37.475,Yes,Sacubitril-valsartan,No,No,No,21.093749999999996,<40
+634,26.0,Male,Caucasian,Hispanic or Latino,178.0,62.0,former,7025.786,3744.744,1995.949,1420.447,No,35.86,No,Sacubitril-valsartan,No,No,No,19.568236333796236,<40
+635,51.0,Male,Asian,Not Hispanic or Latino,160.0,112.0,current,6383.276,3402.286,1813.418,1504.137,No,31.337,Yes,Sacubitril-valsartan,Yes,No,No,43.74999999999999,40-60
+637,57.0,Male,Caucasian,Not Hispanic or Latino,204.0,81.0,current,5345.606,2849.208,1518.628,1565.232,No,35.222,Yes,Sacubitril-valsartan,No,No,No,19.463667820069205,40-60
+638,43.0,Female,Black,Not Hispanic or Latino,158.0,94.0,current,7377.357,3932.131,2095.826,1471.816,Yes,27.421,No,Sacubitril-valsartan,No,No,No,37.6542220797949,40-60
+639,64.0,Male,Unknown,Hispanic or Latino,178.0,62.0,former,6816.099,3632.981,1936.379,1785.68,Yes,36.4,Yes,Sacubitril-valsartan,No,Yes,No,19.568236333796236,>60
+640,28.0,Male,Black,Not Hispanic or Latino,162.0,93.0,never,5939.837,3165.933,1687.442,1714.954,No,28.898,Yes,Sacubitril-valsartan,Yes,No,No,35.43667123914037,<40
+642,57.0,Male,Unknown,Hispanic or Latino,152.0,100.0,current,6427.914,3426.078,1826.1,1363.863,No,30.356,No,Sacubitril-valsartan,No,No,No,43.282548476454295,40-60
+643,25.0,Female,Caucasian,Hispanic or Latino,170.0,81.0,never,6997.688,3729.768,1987.966,1901.321,Yes,26.737,Yes,Sacubitril-valsartan,No,No,No,28.027681660899656,<40
+644,31.0,Male,Native American,Hispanic or Latino,197.0,102.0,current,6342.129,3380.355,1801.729,1556.136,Yes,25.954,No,Sacubitril-valsartan,Yes,No,No,26.282563322940554,<40
+645,20.0,Female,Unknown,Not Hispanic or Latino,156.0,100.0,never,5558.076,2962.455,1578.989,1578.407,Yes,26.005,,Sacubitril-valsartan,No,No,No,41.0913872452334,<40
+646,45.0,Female,Unknown,Hispanic or Latino,157.0,70.0,former,6725.433,3584.656,1910.622,1345.74,No,25.24,No,Sacubitril-valsartan,Yes,No,No,28.398718000730252,40-60
+647,23.0,Female,Pacific Islander,Hispanic or Latino,203.0,64.0,current,7922.403,4222.641,2250.668,1735.799,No,28.129,No,Sacubitril-valsartan,No,No,No,15.530587978354248,<40
+648,27.0,Female,Pacific Islander,Hispanic or Latino,170.0,49.0,never,5281.115,2814.834,1500.307,1631.914,Yes,36.83,Yes,Sacubitril-valsartan,No,No,No,16.955017301038065,<40
+650,57.0,Female,Caucasian,Hispanic or Latino,195.0,82.0,current,6030.961,3214.502,1713.33,1702.889,No,30.522,No,Sacubitril-valsartan,Yes,No,No,21.56476002629849,40-60
+651,40.0,Male,Black,Not Hispanic or Latino,162.0,48.0,former,5915.535,3152.98,1680.538,1686.444,Yes,35.888,Yes,Sacubitril-valsartan,No,No,No,18.289894833104707,40-60
+652,30.0,Male,Native American,Not Hispanic or Latino,157.0,97.0,former,6506.237,3467.824,1848.35,1583.856,Yes,30.889,Yes,Sacubitril-valsartan,No,No,No,39.35250922958335,<40
+653,53.0,Female,Pacific Islander,Hispanic or Latino,174.0,93.0,current,6580.111,3507.199,1869.337,1899.724,No,27.307,No,Sacubitril-valsartan,No,Yes,No,30.71739992072929,40-60
+654,52.0,Female,Native American,Hispanic or Latino,200.0,92.0,never,6001.706,3198.909,1705.018,1851.337,Yes,28.376,Yes,Sacubitril-valsartan,No,No,No,23.0,40-60
+655,32.0,Female,Caucasian,Hispanic or Latino,193.0,94.0,current,6243.142,3327.595,1773.608,1325.771,No,28.884,Yes,Sacubitril-valsartan,No,No,No,25.235576794007894,<40
+658,73.0,Female,Other,Not Hispanic or Latino,179.0,51.0,never,6926.387,3691.764,1967.71,1880.177,No,30.317,No,Sacubitril-valsartan,No,No,No,15.917106207671422,>60
+659,32.0,Female,Pacific Islander,Not Hispanic or Latino,201.0,110.0,former,6131.475,3268.076,1741.885,1741.836,Yes,25.996,Yes,Sacubitril-valsartan,No,No,No,27.227048835424874,<40
+660,52.0,Male,Black,Hispanic or Latino,186.0,49.0,current,5824.186,3104.291,1654.587,1495.456,No,30.12,No,Sacubitril-valsartan,No,Yes,Yes,14.163487108336222,40-60
+661,20.0,Female,Unknown,Hispanic or Latino,203.0,108.0,never,6525.086,3477.871,1853.705,1644.34,Yes,30.141,Yes,Sacubitril-valsartan,Yes,No,No,26.20786721347279,<40
+662,54.0,Female,Black,Not Hispanic or Latino,204.0,61.0,former,5965.908,3179.829,1694.849,1375.402,No,29.601,Yes,Sacubitril-valsartan,No,No,No,14.657823913879277,40-60
+663,33.0,Male,Unknown,Hispanic or Latino,181.0,47.0,current,6499.446,3464.205,1846.421,2018.289,Yes,25.242,Yes,Sacubitril-valsartan,No,No,No,14.346326424712311,<40
+664,72.0,Male,Caucasian,Not Hispanic or Latino,165.0,98.0,former,5597.597,2983.519,1590.216,1303.0,Yes,37.119,No,Sacubitril-valsartan,No,No,No,35.99632690541782,>60
+665,24.0,Male,Native American,Hispanic or Latino,174.0,82.0,never,6523.806,3477.189,1853.342,1329.569,No,39.503,No,Sacubitril-valsartan,No,No,No,27.08415906989034,<40
+666,79.0,Female,Unknown,Hispanic or Latino,171.0,72.0,never,6091.659,3246.854,1730.573,1560.508,No,30.711,Yes,Sacubitril-valsartan,No,No,No,24.622960911049557,>60
+668,63.0,Female,Asian,Hispanic or Latino,211.0,68.0,former,7262.104,3870.701,2063.084,1671.285,Yes,26.364,Yes,Sacubitril-valsartan,No,No,No,15.273691067136857,>60
+671,65.0,Male,Caucasian,Hispanic or Latino,171.0,55.0,former,7207.504,3841.6,2047.573,1674.651,Yes,31.885,Yes,Sacubitril-valsartan,No,No,No,18.80920625149619,>60
+672,44.0,Female,Unknown,Hispanic or Latino,200.0,82.0,never,5288.076,2818.545,1502.284,1438.263,Yes,26.624,No,Sacubitril-valsartan,No,No,No,20.5,40-60
+673,63.0,Male,Native American,Hispanic or Latino,173.0,101.0,never,5936.007,3163.892,1686.354,1375.665,No,39.592,No,Sacubitril-valsartan,No,No,No,33.746533462527985,>60
+674,76.0,Female,Unknown,Not Hispanic or Latino,195.0,107.0,current,5681.161,3028.059,1613.955,1786.159,Yes,35.346,No,Sacubitril-valsartan,No,No,No,28.139381985535834,>60
+675,52.0,Male,Pacific Islander,Not Hispanic or Latino,182.0,116.0,never,6859.872,3656.312,1948.814,1691.619,No,33.181,Yes,Sacubitril-valsartan,No,No,No,35.019925129815235,40-60
+677,48.0,Female,Native American,Not Hispanic or Latino,191.0,60.0,former,5386.466,2870.986,1530.236,1482.283,No,28.479,No,Sacubitril-valsartan,No,No,No,16.44691757353143,40-60
+678,27.0,Female,Black,Not Hispanic or Latino,154.0,54.0,former,6575.779,3504.89,1868.106,1335.816,Yes,27.817,No,Sacubitril-valsartan,No,No,No,22.76943835385394,<40
+679,44.0,Male,Other,Not Hispanic or Latino,196.0,66.0,former,5259.415,2803.268,1494.142,1737.014,No,28.395,Yes,Sacubitril-valsartan,No,No,No,17.18034152436485,40-60
+680,26.0,Female,Pacific Islander,Not Hispanic or Latino,173.0,76.0,never,5451.642,2905.725,1548.751,1360.093,No,31.203,Yes,Sacubitril-valsartan,No,No,No,25.393431120318084,<40
+681,46.0,Male,Other,Hispanic or Latino,189.0,83.0,never,6010.333,3203.507,1707.469,1309.36,No,37.228,Yes,Sacubitril-valsartan,No,No,No,23.23563170124017,40-60
+682,44.0,Female,Caucasian,Hispanic or Latino,164.0,114.0,never,5780.175,3080.833,1642.084,1485.457,Yes,28.283,No,Sacubitril-valsartan,No,No,No,42.38548483045807,40-60
+683,30.0,Female,Other,Hispanic or Latino,184.0,59.0,former,6677.375,3559.041,1896.969,1533.973,No,37.484,No,Sacubitril-valsartan,Yes,No,No,17.426748582230623,<40
+684,33.0,Male,Unknown,Not Hispanic or Latino,152.0,49.0,current,6633.255,3535.525,1884.435,1496.423,Yes,32.655,Yes,Sacubitril-valsartan,No,No,No,21.208448753462605,<40
+686,73.0,Male,Native American,Hispanic or Latino,175.0,105.0,former,6576.39,3505.216,1868.28,1607.187,No,28.225,Yes,Sacubitril-valsartan,No,No,No,34.285714285714285,>60
+687,38.0,Female,Other,Not Hispanic or Latino,195.0,91.0,never,6762.096,3604.197,1921.037,1473.755,No,36.948,No,Sacubitril-valsartan,No,No,No,23.931623931623932,<40
+688,36.0,Male,Asian,Not Hispanic or Latino,154.0,68.0,never,5541.084,2953.398,1574.161,1594.592,Yes,32.58,No,Sacubitril-valsartan,No,No,No,28.67262607522348,<40
+689,52.0,Female,Asian,Not Hispanic or Latino,163.0,74.0,former,5594.823,2982.041,1589.428,1336.815,Yes,34.06,No,Sacubitril-valsartan,No,No,No,27.85200797922391,40-60
+692,55.0,Male,Other,Not Hispanic or Latino,201.0,54.0,never,6102.195,3252.47,1733.567,1362.708,Yes,31.445,Yes,Sacubitril-valsartan,No,No,Yes,13.366005791935846,40-60
+693,56.0,Male,Asian,Hispanic or Latino,180.0,77.0,current,6014.115,3205.523,1708.544,1747.755,Yes,34.482,Yes,Sacubitril-valsartan,No,No,No,23.76543209876543,40-60
+694,58.0,Male,Unknown,Hispanic or Latino,153.0,48.0,never,5324.837,2838.138,1512.728,1667.683,No,26.841,Yes,Sacubitril-valsartan,No,No,No,20.504933999743688,40-60
+695,43.0,Male,Asian,Hispanic or Latino,164.0,63.0,never,7993.849,4260.722,2270.965,1412.314,No,26.412,No,Sacubitril-valsartan,No,No,No,23.423557406305775,40-60
+696,22.0,Male,Native American,Hispanic or Latino,201.0,94.0,never,5474.769,2918.052,1555.322,1688.657,Yes,33.051,Yes,Sacubitril-valsartan,No,No,No,23.266750822999438,<40
+697,41.0,Female,Native American,Hispanic or Latino,203.0,93.0,never,5273.275,2810.656,1498.08,1855.965,No,34.1,No,Sacubitril-valsartan,No,No,No,22.567885656046016,40-60
+698,60.0,Female,Caucasian,Not Hispanic or Latino,207.0,114.0,former,5765.626,3073.079,1637.951,1617.046,Yes,36.616,Yes,Sacubitril-valsartan,No,No,No,26.605054960442487,>60
+699,19.0,Female,Other,Hispanic or Latino,207.0,55.0,current,6277.417,3345.863,1783.345,1610.86,Yes,28.313,Yes,Sacubitril-valsartan,No,No,No,12.835772130038043,<40
+700,23.0,Female,Pacific Islander,Hispanic or Latino,207.0,107.0,former,5649.481,3011.173,1604.955,1610.102,Yes,25.513,No,Sacubitril-valsartan,No,No,No,24.97141123480128,<40
+701,19.0,Female,Caucasian,Hispanic or Latino,166.0,80.0,current,5257.454,2802.223,1493.585,1318.32,Yes,25.74,Yes,Sacubitril-valsartan,No,No,No,29.03178980984178,<40
+702,36.0,Male,Native American,Not Hispanic or Latino,203.0,69.0,current,5447.718,2903.634,1547.637,1630.175,Yes,25.411,No,Sacubitril-valsartan,No,No,No,16.743915164163173,<40
+703,70.0,Female,Asian,Not Hispanic or Latino,183.0,106.0,never,5935.525,3163.635,1686.217,1485.111,No,25.042,Yes,Sacubitril-valsartan,No,Yes,No,31.652184299322162,>60
+704,56.0,Female,Black,Not Hispanic or Latino,209.0,68.0,former,6092.826,3247.476,1730.905,1772.249,Yes,29.723,No,Sacubitril-valsartan,No,No,No,15.567409171035465,40-60
+705,53.0,Male,Asian,Not Hispanic or Latino,174.0,87.0,current,5245.825,2796.025,1490.281,1551.164,No,39.731,Yes,Sacubitril-valsartan,No,No,No,28.735632183908045,40-60
+706,75.0,Female,Other,Not Hispanic or Latino,184.0,85.0,never,7094.465,3781.35,2015.46,1320.852,No,34.314,No,Sacubitril-valsartan,Yes,No,No,25.10633270321361,>60
+707,43.0,Male,Unknown,Not Hispanic or Latino,206.0,108.0,current,5301.973,2825.952,1506.232,1859.548,Yes,31.6,Yes,Sacubitril-valsartan,No,No,No,25.45008954661137,40-60
+709,53.0,Female,Native American,Hispanic or Latino,169.0,100.0,former,5814.979,3099.384,1651.972,1691.161,No,36.089,No,Sacubitril-valsartan,No,No,No,35.01277966457757,40-60
+710,50.0,Female,Unknown,Not Hispanic or Latino,176.0,90.0,never,7004.396,3733.343,1989.872,1525.213,Yes,34.226,No,Sacubitril-valsartan,No,No,No,29.054752066115704,40-60
+711,44.0,Male,Other,Not Hispanic or Latino,201.0,54.0,never,6705.417,3573.987,1904.935,1765.385,No,38.76,No,Sacubitril-valsartan,No,Yes,No,13.366005791935846,40-60
+712,55.0,Male,Caucasian,Hispanic or Latino,211.0,85.0,never,6075.407,3238.192,1725.956,1568.876,Yes,29.026,Yes,Sacubitril-valsartan,No,No,No,19.092113833921072,40-60
+713,18.0,Male,Caucasian,Not Hispanic or Latino,165.0,82.0,current,5426.622,2892.39,1541.644,1711.587,Yes,27.717,Yes,Sacubitril-valsartan,Yes,No,No,30.119375573921033,<40
+714,58.0,Female,Pacific Islander,Hispanic or Latino,177.0,62.0,never,6173.481,3290.465,1753.818,1368.279,No,35.378,Yes,Sacubitril-valsartan,No,No,No,19.789970953429727,40-60
+715,33.0,Female,Other,Hispanic or Latino,163.0,112.0,former,5262.544,2804.936,1495.031,1399.141,No,30.678,No,Sacubitril-valsartan,No,No,No,42.15439045504159,<40
+717,49.0,Female,Caucasian,Hispanic or Latino,182.0,93.0,current,5322.826,2837.066,1512.156,1485.66,No,37.053,No,Sacubitril-valsartan,No,No,No,28.076319285110493,40-60
+718,26.0,Female,Black,Hispanic or Latino,200.0,66.0,former,5579.686,2973.973,1585.128,1341.804,No,27.005,Yes,Sacubitril-valsartan,No,No,No,16.5,<40
+719,44.0,Male,Pacific Islander,Hispanic or Latino,163.0,89.0,never,5284.023,2816.384,1501.133,1432.186,Yes,38.402,Yes,Sacubitril-valsartan,No,No,No,33.49768527230984,40-60
+720,53.0,Male,Caucasian,Hispanic or Latino,199.0,83.0,current,5570.442,2969.046,1582.502,1588.462,Yes,34.257,Yes,Sacubitril-valsartan,No,No,No,20.959066690235094,40-60
+721,48.0,Female,Black,Not Hispanic or Latino,188.0,80.0,former,7392.71,3940.314,2100.187,1382.517,No,37.367,Yes,Sacubitril-valsartan,Yes,No,No,22.634676324128566,40-60
+722,49.0,Male,Pacific Islander,Hispanic or Latino,187.0,79.0,former,6024.561,3211.091,1711.512,1544.855,No,31.9,No,Sacubitril-valsartan,No,No,No,22.59143813091595,40-60
+723,68.0,Female,Asian,Hispanic or Latino,187.0,84.0,former,5596.792,2983.09,1589.987,1743.407,Yes,29.906,No,Sacubitril-valsartan,No,No,No,24.021275987303035,>60
+724,59.0,Male,Caucasian,Not Hispanic or Latino,190.0,103.0,current,6940.758,3699.424,1971.793,1674.37,Yes,25.582,No,Sacubitril-valsartan,No,No,No,28.531855955678672,40-60
+725,32.0,Female,Asian,Not Hispanic or Latino,187.0,114.0,never,6263.335,3338.358,1779.345,1580.486,Yes,37.064,Yes,Sacubitril-valsartan,No,Yes,No,32.60030312562555,<40
+726,20.0,Male,Asian,Not Hispanic or Latino,178.0,106.0,current,6083.78,3242.655,1728.335,1358.875,No,28.108,No,Sacubitril-valsartan,No,No,No,33.45537179649034,<40
+727,76.0,Female,Native American,Not Hispanic or Latino,179.0,112.0,current,5477.806,2919.671,1556.185,1414.3,Yes,29.416,Yes,Sacubitril-valsartan,No,No,No,34.955213632533315,>60
+728,27.0,Male,Native American,Hispanic or Latino,199.0,56.0,never,6514.899,3472.441,1850.811,1674.743,Yes,31.203,Yes,Sacubitril-valsartan,No,No,No,14.141057044014039,<40
+729,23.0,Male,Other,Hispanic or Latino,155.0,62.0,former,5332.141,2842.031,1514.803,1766.65,No,31.118,Yes,Sacubitril-valsartan,No,No,No,25.806451612903224,<40
+730,52.0,Male,Unknown,Not Hispanic or Latino,197.0,103.0,never,5883.027,3135.653,1671.303,1721.582,Yes,37.803,No,Sacubitril-valsartan,No,No,No,26.540235512381148,40-60
+731,47.0,Female,Native American,Not Hispanic or Latino,172.0,63.0,current,5554.81,2960.714,1578.061,1669.317,No,27.149,No,Sacubitril-valsartan,No,No,No,21.29529475392104,40-60
+732,57.0,Male,Native American,Hispanic or Latino,196.0,106.0,former,5727.822,3052.929,1627.211,1660.838,No,39.646,No,Sacubitril-valsartan,No,No,No,27.59266972094961,40-60
+733,47.0,Female,Black,Not Hispanic or Latino,181.0,62.0,never,5655.231,3014.238,1606.589,1440.939,No,36.619,No,Sacubitril-valsartan,No,Yes,No,18.924941241109856,40-60
+734,32.0,Male,Asian,Not Hispanic or Latino,208.0,84.0,current,6167.759,3287.416,1752.193,1455.385,No,38.965,Yes,Sacubitril-valsartan,Yes,No,No,19.415680473372777,<40
+735,36.0,Male,Asian,Not Hispanic or Latino,158.0,102.0,former,5879.536,3133.793,1670.312,1334.848,Yes,25.182,Yes,Sacubitril-valsartan,Yes,No,No,40.85883672488383,<40
+737,50.0,Male,Other,Not Hispanic or Latino,199.0,77.0,former,5688.036,3031.723,1615.908,1367.875,Yes,25.216,Yes,Sacubitril-valsartan,No,No,No,19.443953435519305,40-60
+738,66.0,Male,Black,Not Hispanic or Latino,189.0,90.0,former,5722.773,3050.238,1625.777,1625.369,No,25.357,Yes,Sacubitril-valsartan,No,No,No,25.195263290501387,>60
+739,39.0,Female,Caucasian,Hispanic or Latino,172.0,75.0,never,5511.308,2937.527,1565.702,1394.529,No,39.386,Yes,Sacubitril-valsartan,No,Yes,No,25.351541373715524,<40
+741,67.0,Female,Black,Not Hispanic or Latino,176.0,51.0,never,7651.298,4078.142,2173.65,1400.917,No,26.02,No,Sacubitril-valsartan,No,No,No,16.464359504132233,>60
+742,50.0,Female,Native American,Hispanic or Latino,200.0,44.0,current,5256.823,2801.887,1493.406,1434.786,Yes,29.344,Yes,Sacubitril-valsartan,No,No,No,11.0,40-60
+743,46.0,Male,Other,Hispanic or Latino,167.0,109.0,never,6606.042,3521.02,1876.704,1448.689,No,26.634,No,Sacubitril-valsartan,No,No,No,39.08350962745168,40-60
+744,35.0,Male,Caucasian,Hispanic or Latino,186.0,66.0,never,6768.147,3607.422,1922.756,1445.971,No,31.132,No,Sacubitril-valsartan,Yes,No,No,19.07734998265695,<40
+745,27.0,Female,Asian,Hispanic or Latino,200.0,54.0,current,5482.759,2922.311,1557.592,1357.628,Yes,25.736,Yes,Sacubitril-valsartan,No,No,No,13.5,<40
+746,44.0,Female,Caucasian,Not Hispanic or Latino,204.0,47.0,never,5394.271,2875.146,1532.453,1516.447,Yes,34.795,Yes,Sacubitril-valsartan,No,No,No,11.293733179546328,40-60
+747,50.0,Female,Caucasian,Hispanic or Latino,204.0,86.0,current,5458.506,2909.384,1550.702,1478.993,No,27.833,No,Sacubitril-valsartan,No,Yes,No,20.665128796616685,40-60
+748,74.0,Male,Other,Not Hispanic or Latino,187.0,86.0,never,5320.131,2835.63,1511.391,2023.377,No,33.593,No,Sacubitril-valsartan,Yes,No,No,24.59321112985787,>60
+749,24.0,Male,Unknown,Not Hispanic or Latino,209.0,105.0,current,6316.118,3366.491,1794.34,1366.787,No,27.77,No,Sacubitril-valsartan,No,No,No,24.037911219981233,<40
+750,37.0,Male,Other,Hispanic or Latino,204.0,76.0,current,6769.257,3608.014,1923.071,1439.973,No,26.104,Yes,Sacubitril-valsartan,No,No,No,18.26220684352172,<40
+751,45.0,Female,Caucasian,Hispanic or Latino,174.0,99.0,current,6061.772,3230.924,1722.082,1626.799,Yes,29.608,No,Sacubitril-valsartan,No,No,No,32.69916765755053,40-60
+752,60.0,Male,Other,Not Hispanic or Latino,200.0,107.0,former,5379.475,2867.26,1528.25,1582.732,Yes,27.943,Yes,Sacubitril-valsartan,No,No,No,26.75,>60
+753,64.0,Male,Caucasian,Hispanic or Latino,160.0,78.0,former,6113.828,3258.67,1736.871,1345.773,No,33.253,Yes,Sacubitril-valsartan,No,No,No,30.468749999999993,>60
+754,68.0,Female,Caucasian,Hispanic or Latino,164.0,112.0,former,5632.354,3002.045,1600.09,1535.76,No,39.472,Yes,Sacubitril-valsartan,No,No,No,41.64187983343249,>60
+755,62.0,Male,Unknown,Not Hispanic or Latino,208.0,82.0,current,7443.597,3967.437,2114.644,1597.024,No,28.831,No,Sacubitril-valsartan,No,Yes,No,18.9534023668639,>60
+756,53.0,Male,Unknown,Hispanic or Latino,180.0,59.0,never,5962.093,3177.796,1693.765,1690.923,No,25.932,Yes,Sacubitril-valsartan,Yes,No,No,18.209876543209877,40-60
+758,34.0,Male,Pacific Islander,Not Hispanic or Latino,173.0,110.0,never,5820.881,3102.53,1653.648,1558.667,No,29.634,Yes,Sacubitril-valsartan,No,No,No,36.753650305723546,<40
+759,47.0,Female,Black,Not Hispanic or Latino,203.0,94.0,current,6802.635,3625.804,1932.554,1301.988,No,29.358,No,Sacubitril-valsartan,No,No,No,22.8105510932078,40-60
+760,76.0,Female,Black,Not Hispanic or Latino,209.0,100.0,current,5685.692,3030.474,1615.243,1463.981,No,25.664,Yes,Sacubitril-valsartan,No,No,No,22.893248780934506,>60
+761,41.0,Female,Pacific Islander,Hispanic or Latino,198.0,103.0,never,6169.934,3288.575,1752.81,1544.188,No,27.988,No,Sacubitril-valsartan,No,No,No,26.272829303132333,40-60
+762,23.0,Male,Asian,Hispanic or Latino,168.0,52.0,former,6855.148,3653.794,1947.472,1391.521,Yes,26.914,No,Sacubitril-valsartan,No,Yes,No,18.42403628117914,<40
+763,57.0,Male,Caucasian,Hispanic or Latino,187.0,92.0,current,6686.564,3563.939,1899.579,1520.508,Yes,32.89,No,Sacubitril-valsartan,No,No,No,26.309016557522373,40-60
+764,72.0,Female,Other,Hispanic or Latino,167.0,89.0,former,6331.137,3374.496,1798.606,1837.169,Yes,33.658,No,Sacubitril-valsartan,No,No,No,31.912223457277065,>60
+765,68.0,Male,Other,Not Hispanic or Latino,188.0,67.0,current,6346.579,3382.727,1802.993,1875.273,Yes,30.976,No,Sacubitril-valsartan,Yes,No,No,18.956541421457676,>60
+766,63.0,Female,Native American,Hispanic or Latino,172.0,44.0,former,5383.324,2869.312,1529.343,1528.875,Yes,35.215,No,Sacubitril-valsartan,No,No,No,14.872904272579774,>60
+768,28.0,Female,Unknown,Not Hispanic or Latino,202.0,47.0,former,5314.706,2832.738,1509.849,1361.745,Yes,30.16,No,Sacubitril-valsartan,No,No,No,11.51847858053132,<40
+769,60.0,Female,Other,Hispanic or Latino,177.0,108.0,current,5853.334,3119.827,1662.868,1559.04,Yes,30.23,No,Sacubitril-valsartan,No,No,No,34.47285262855501,>60
+770,78.0,Male,Black,Not Hispanic or Latino,192.0,57.0,former,5520.971,2942.678,1568.447,1479.457,No,35.865,Yes,Sacubitril-valsartan,No,Yes,No,15.462239583333334,>60
+771,23.0,Male,Asian,Not Hispanic or Latino,177.0,118.0,never,6045.308,3222.149,1717.405,1350.701,Yes,25.2,Yes,Sacubitril-valsartan,Yes,No,No,37.66478342749529,<40
+772,64.0,Male,Black,Hispanic or Latino,169.0,66.0,former,6523.714,3477.14,1853.316,2159.333,Yes,39.67,Yes,Sacubitril-valsartan,No,No,No,23.1084345786212,>60
+773,32.0,Male,Pacific Islander,Not Hispanic or Latino,193.0,73.0,never,5768.678,3074.705,1638.818,1410.886,Yes,28.738,Yes,Sacubitril-valsartan,No,Yes,No,19.597841552793366,<40
+774,37.0,Female,Unknown,Hispanic or Latino,211.0,52.0,former,6612.725,3524.582,1878.602,1599.942,Yes,37.403,Yes,Sacubitril-valsartan,No,No,No,11.679881404281126,<40
+776,34.0,Female,Caucasian,Hispanic or Latino,185.0,54.0,current,6585.592,3510.121,1870.894,1837.647,No,32.189,No,Sacubitril-valsartan,No,No,No,15.777940102264425,<40
+777,59.0,Male,Asian,Hispanic or Latino,153.0,82.0,former,7216.291,3846.283,2050.069,1313.319,Yes,26.158,Yes,Sacubitril-valsartan,No,No,No,35.02926224956214,40-60
+778,57.0,Female,Black,Hispanic or Latino,200.0,99.0,former,6250.728,3331.638,1775.763,1650.955,No,32.792,No,Sacubitril-valsartan,No,No,No,24.75,40-60
+779,66.0,Female,Pacific Islander,Hispanic or Latino,181.0,92.0,never,6904.855,3680.288,1961.594,1597.117,No,39.582,No,Sacubitril-valsartan,No,No,No,28.082170873904946,>60
+780,55.0,Male,Caucasian,Hispanic or Latino,167.0,61.0,current,7556.31,4027.513,2146.664,1700.412,No,28.259,Yes,Sacubitril-valsartan,Yes,No,No,21.872422819032593,40-60
+781,22.0,Female,Native American,Not Hispanic or Latino,198.0,47.0,former,6445.194,3435.288,1831.009,1378.977,Yes,25.609,Yes,Sacubitril-valsartan,No,No,No,11.988572594633201,<40
+783,73.0,Female,Asian,Not Hispanic or Latino,187.0,69.0,never,7687.147,4097.249,2183.834,1785.101,Yes,34.518,No,Sacubitril-valsartan,No,No,No,19.73176241814178,>60
+784,70.0,Female,Caucasian,Hispanic or Latino,208.0,55.0,current,6523.304,3476.921,1853.199,1464.587,No,26.913,No,Sacubitril-valsartan,No,No,No,12.712647928994082,>60
+785,38.0,Male,Black,Hispanic or Latino,168.0,92.0,current,5382.055,2868.635,1528.982,1459.996,No,34.072,Yes,Sacubitril-valsartan,No,No,No,32.596371882086174,<40
+786,37.0,Male,Other,Hispanic or Latino,200.0,118.0,former,6854.355,3653.371,1947.247,1456.068,Yes,25.227,No,Sacubitril-valsartan,No,No,No,29.5,<40
+787,71.0,Male,Black,Hispanic or Latino,204.0,66.0,never,6624.462,3530.838,1881.937,1325.842,Yes,27.028,No,Sacubitril-valsartan,No,No,No,15.859284890426759,>60
+788,34.0,Female,Unknown,Not Hispanic or Latino,206.0,79.0,former,6552.795,3492.64,1861.577,1463.703,Yes,29.912,No,Sacubitril-valsartan,No,No,No,18.61626920539165,<40
+789,76.0,Female,Unknown,Not Hispanic or Latino,188.0,81.0,never,6192.162,3300.422,1759.125,1373.259,Yes,36.086,No,Sacubitril-valsartan,No,No,No,22.917609778180175,>60
+790,25.0,Female,Asian,Hispanic or Latino,208.0,49.0,current,6346.659,3382.769,1803.016,1768.672,No,28.214,No,Sacubitril-valsartan,No,No,No,11.325813609467454,<40
+791,28.0,Female,Unknown,Not Hispanic or Latino,178.0,77.0,former,7546.583,4022.329,2143.901,1346.187,Yes,26.863,No,Sacubitril-valsartan,Yes,No,No,24.302487059714682,<40
+792,74.0,Male,Native American,Hispanic or Latino,169.0,107.0,former,5700.943,3038.603,1619.575,1664.619,Yes,36.797,Yes,Sacubitril-valsartan,No,No,No,37.463674241098005,>60
+793,64.0,Female,Unknown,Hispanic or Latino,178.0,98.0,current,5732.739,3055.55,1628.608,1395.48,Yes,28.883,No,Sacubitril-valsartan,No,No,No,30.930438076000502,>60
+794,52.0,Male,Black,Not Hispanic or Latino,200.0,41.0,former,6764.602,3605.533,1921.749,1375.96,No,35.211,No,Sacubitril-valsartan,No,No,No,10.25,40-60
+795,41.0,Male,Pacific Islander,Hispanic or Latino,191.0,43.0,former,6823.332,3636.836,1938.434,1404.295,No,28.068,No,Sacubitril-valsartan,No,No,No,11.786957594364189,40-60
+796,53.0,Female,Caucasian,Hispanic or Latino,192.0,96.0,former,5239.382,2792.591,1488.451,1345.429,No,34.153,Yes,Sacubitril-valsartan,Yes,No,Yes,26.041666666666668,40-60
+797,47.0,Male,Black,Not Hispanic or Latino,210.0,86.0,former,5685.096,3030.156,1615.073,1392.439,No,27.292,No,Sacubitril-valsartan,No,No,No,19.501133786848072,40-60
+798,79.0,Female,Native American,Hispanic or Latino,197.0,110.0,former,6559.461,3496.193,1863.471,1367.269,No,31.444,No,Sacubitril-valsartan,No,No,No,28.343940838465304,>60
+799,32.0,Male,Unknown,Not Hispanic or Latino,159.0,111.0,never,7362.957,3924.456,2091.735,1395.395,No,28.754,Yes,Sacubitril-valsartan,No,No,No,43.9064910407025,<40
+800,79.0,Female,Native American,Hispanic or Latino,174.0,75.0,never,6002.226,3199.186,1705.166,1602.96,No,38.217,Yes,Sacubitril-valsartan,No,No,No,24.772096710265558,>60
+801,41.0,Female,Asian,Not Hispanic or Latino,182.0,108.0,former,5900.917,3145.189,1676.386,1497.734,No,28.635,Yes,Sacubitril-valsartan,Yes,No,No,32.60475787948315,40-60
+802,27.0,Female,Black,Not Hispanic or Latino,201.0,58.0,current,5451.591,2905.698,1548.737,1488.07,Yes,28.981,Yes,Sacubitril-valsartan,No,No,No,14.356080295042206,<40
+803,55.0,Female,Pacific Islander,Not Hispanic or Latino,180.0,69.0,never,5739.788,3059.307,1630.611,1392.475,No,27.682,Yes,Sacubitril-valsartan,Yes,No,No,21.296296296296294,40-60
+804,77.0,Female,Pacific Islander,Hispanic or Latino,196.0,112.0,current,5291.935,2820.601,1503.38,1501.133,Yes,29.052,No,Sacubitril-valsartan,No,No,No,29.15451895043732,>60
+805,47.0,Male,Pacific Islander,Hispanic or Latino,185.0,74.0,former,5618.55,2994.687,1596.168,1693.986,Yes,28.817,No,Sacubitril-valsartan,No,No,No,21.62162162162162,40-60
+806,28.0,Female,Asian,Not Hispanic or Latino,178.0,100.0,former,5475.107,2918.232,1555.418,1771.905,Yes,27.797,No,Sacubitril-valsartan,No,No,No,31.561671506122963,<40
+807,21.0,Female,Unknown,Not Hispanic or Latino,158.0,60.0,never,5721.996,3049.824,1625.556,1558.379,Yes,27.416,No,Sacubitril-valsartan,No,No,No,24.034609838166958,<40
+808,47.0,Male,Unknown,Not Hispanic or Latino,157.0,56.0,never,6705.476,3574.019,1904.952,1744.897,Yes,31.431,Yes,Sacubitril-valsartan,No,No,No,22.7189744005842,40-60
+809,64.0,Male,Other,Not Hispanic or Latino,180.0,68.0,never,5838.82,3112.091,1658.745,1601.544,Yes,33.251,Yes,Sacubitril-valsartan,No,No,No,20.98765432098765,>60
+810,76.0,Male,Black,Hispanic or Latino,160.0,88.0,current,5686.596,3030.956,1615.5,1662.352,No,26.683,No,Sacubitril-valsartan,Yes,Yes,No,34.37499999999999,>60
+811,56.0,Male,Unknown,Hispanic or Latino,187.0,66.0,never,5897.349,3143.287,1675.372,1587.749,Yes,27.181,No,Sacubitril-valsartan,No,No,No,18.873859704309528,40-60
+812,40.0,Male,Unknown,Hispanic or Latino,179.0,55.0,never,6031.254,3214.658,1713.413,1557.547,Yes,38.236,No,Sacubitril-valsartan,No,No,No,17.165506694547613,40-60
+813,37.0,Male,Native American,Hispanic or Latino,180.0,84.0,current,5471.846,2916.494,1554.491,1662.069,No,33.939,Yes,Sacubitril-valsartan,No,Yes,No,25.925925925925924,<40
+814,26.0,Male,Black,Hispanic or Latino,152.0,119.0,former,7400.507,3944.47,2102.403,1637.579,No,31.766,Yes,Sacubitril-valsartan,No,No,No,51.50623268698061,<40
+815,21.0,Male,Asian,Hispanic or Latino,205.0,85.0,former,5292.134,2820.707,1503.437,1520.134,No,36.657,No,Sacubitril-valsartan,Yes,No,No,20.226055919095778,<40
+816,55.0,Female,Other,Not Hispanic or Latino,170.0,57.0,never,6256.587,3334.761,1777.428,1663.301,Yes,31.328,No,Sacubitril-valsartan,No,Yes,No,19.723183391003463,40-60
+817,23.0,Male,Other,Not Hispanic or Latino,157.0,96.0,never,6215.586,3312.907,1765.779,1590.942,No,28.43,Yes,Sacubitril-valsartan,No,No,No,38.946813258144346,<40
+818,78.0,Female,Caucasian,Hispanic or Latino,212.0,105.0,former,6196.265,3302.609,1760.291,1396.085,No,39.292,Yes,Sacubitril-valsartan,No,No,No,23.362406550373795,>60
+819,76.0,Female,Pacific Islander,Not Hispanic or Latino,178.0,60.0,never,6538.263,3484.894,1857.449,1665.538,No,28.467,No,Sacubitril-valsartan,No,No,No,18.93700290367378,>60
+820,50.0,Female,Caucasian,Not Hispanic or Latino,171.0,50.0,current,5355.792,2854.637,1521.522,1540.841,Yes,34.173,No,Sacubitril-valsartan,No,No,No,17.09927841045108,40-60
+821,71.0,Male,Caucasian,Not Hispanic or Latino,166.0,53.0,never,6282.609,3348.631,1784.82,1633.912,No,31.687,Yes,Sacubitril-valsartan,No,No,No,19.233560749020178,>60
+822,58.0,Female,Other,Not Hispanic or Latino,197.0,102.0,former,6211.147,3310.541,1764.518,1651.957,Yes,39.173,No,Sacubitril-valsartan,No,No,No,26.282563322940554,40-60
+824,31.0,Male,Native American,Hispanic or Latino,175.0,62.0,former,5298.292,2823.99,1505.187,1609.991,No,29.553,No,Sacubitril-valsartan,No,No,No,20.244897959183675,<40
+825,49.0,Female,Black,Hispanic or Latino,204.0,109.0,current,5605.443,2987.701,1592.445,2003.736,No,36.265,No,Sacubitril-valsartan,No,No,No,26.191849288735103,40-60
+826,72.0,Male,Pacific Islander,Not Hispanic or Latino,188.0,117.0,former,5900.641,3145.042,1676.307,1587.307,No,31.742,No,Sacubitril-valsartan,No,Yes,No,33.103214124038026,>60
+827,77.0,Female,Pacific Islander,Hispanic or Latino,173.0,73.0,current,5729.899,3054.036,1627.801,1458.217,No,33.361,Yes,Sacubitril-valsartan,No,No,No,24.3910588392529,>60
+828,64.0,Female,Native American,Hispanic or Latino,191.0,87.0,never,7011.908,3737.347,1992.006,1830.342,Yes,33.199,No,Sacubitril-valsartan,No,Yes,No,23.84803048162057,>60
+829,20.0,Female,Caucasian,Not Hispanic or Latino,189.0,41.0,current,6711.971,3577.481,1906.797,1304.924,Yes,34.827,No,Sacubitril-valsartan,No,No,No,11.477842165672854,<40
+830,65.0,Female,Black,Hispanic or Latino,193.0,51.0,former,5612.475,2991.449,1594.442,1341.849,No,30.58,Yes,Sacubitril-valsartan,No,No,No,13.691642728663858,>60
+831,52.0,Male,Pacific Islander,Not Hispanic or Latino,193.0,95.0,never,6490.099,3459.223,1843.766,1422.7,Yes,26.137,No,Sacubitril-valsartan,No,No,No,25.50404037692287,40-60
+832,35.0,Female,Other,Hispanic or Latino,202.0,101.0,former,8623.431,4596.289,2449.822,1745.782,No,28.75,Yes,Sacubitril-valsartan,Yes,No,No,24.752475247524753,<40
+833,75.0,Female,Native American,Not Hispanic or Latino,178.0,109.0,current,5522.048,2943.252,1568.753,2034.286,No,28.101,No,Sacubitril-valsartan,No,No,No,34.40222194167403,>60
+834,66.0,Female,Other,Not Hispanic or Latino,182.0,41.0,current,6459.147,3442.725,1834.972,1517.736,Yes,34.218,No,Sacubitril-valsartan,No,No,No,12.377732157951938,>60
+835,24.0,Female,Asian,Hispanic or Latino,201.0,44.0,never,7271.679,3875.805,2065.804,1667.95,No,29.587,Yes,Sacubitril-valsartan,No,No,No,10.89081953416995,<40
+836,46.0,Male,Native American,Hispanic or Latino,171.0,70.0,never,6606.516,3521.273,1876.839,1355.258,Yes,30.716,No,Sacubitril-valsartan,No,No,No,23.938989774631512,40-60
+837,30.0,Female,Other,Not Hispanic or Latino,198.0,78.0,former,5387.483,2871.528,1530.524,1665.283,Yes,26.8,Yes,Sacubitril-valsartan,No,No,No,19.89592898683808,<40
+838,62.0,Male,Black,Hispanic or Latino,193.0,107.0,never,6138.615,3271.882,1743.913,1397.276,Yes,36.916,No,Sacubitril-valsartan,No,No,No,28.7256033719026,>60
+839,66.0,Female,Unknown,Hispanic or Latino,178.0,116.0,former,5578.164,2973.161,1584.695,1380.504,Yes,25.076,Yes,Sacubitril-valsartan,No,No,No,36.61153894710264,>60
+840,48.0,Female,Black,Hispanic or Latino,206.0,111.0,current,5321.611,2836.419,1511.811,1654.047,No,34.804,Yes,Sacubitril-valsartan,No,No,No,26.157036478461684,40-60
+841,70.0,Female,Other,Hispanic or Latino,154.0,82.0,former,6850.305,3651.213,1946.097,1586.184,No,27.689,Yes,Sacubitril-valsartan,Yes,No,No,34.57581379659302,>60
+842,40.0,Male,Caucasian,Not Hispanic or Latino,154.0,119.0,current,5510.902,2937.311,1565.587,1484.106,No,29.495,No,Sacubitril-valsartan,No,No,No,50.17709563164109,40-60
+843,19.0,Male,Native American,Hispanic or Latino,155.0,79.0,former,6310.793,3363.653,1792.827,1355.351,No,32.333,Yes,Sacubitril-valsartan,No,No,No,32.882414151925076,<40
+844,32.0,Female,Black,Hispanic or Latino,176.0,52.0,former,5750.845,3065.2,1633.752,1743.236,No,31.258,No,Sacubitril-valsartan,No,Yes,No,16.787190082644628,<40
+845,61.0,Male,Asian,Not Hispanic or Latino,187.0,103.0,current,5821.399,3102.806,1653.796,1360.485,No,34.312,No,Sacubitril-valsartan,No,No,No,29.45465984157396,>60
+847,33.0,Male,Native American,Hispanic or Latino,179.0,76.0,current,7207.267,3841.473,2047.505,1541.021,No,35.386,No,Sacubitril-valsartan,No,No,No,23.719609250647608,<40
+848,64.0,Female,Black,Not Hispanic or Latino,161.0,97.0,never,7560.12,4029.544,2147.747,1741.266,Yes,32.522,Yes,Sacubitril-valsartan,No,No,No,37.42139577948381,>60
+850,43.0,Female,Other,Hispanic or Latino,186.0,119.0,never,5592.403,2980.751,1588.74,1597.505,No,25.846,Yes,Sacubitril-valsartan,No,No,No,34.39704012024511,40-60
+851,52.0,Male,Pacific Islander,Hispanic or Latino,195.0,70.0,former,6981.612,3721.199,1983.399,1330.666,No,29.766,No,Sacubitril-valsartan,No,No,No,18.408941485864563,40-60
+852,47.0,Male,Native American,Hispanic or Latino,168.0,50.0,current,5624.071,2997.63,1597.737,1598.127,No,28.134,No,Sacubitril-valsartan,No,No,No,17.71541950113379,40-60
+853,28.0,Female,Black,Not Hispanic or Latino,208.0,66.0,never,5238.371,2792.052,1488.164,1664.343,Yes,27.941,Yes,Sacubitril-valsartan,No,No,No,15.255177514792898,<40
+854,72.0,Female,Asian,Not Hispanic or Latino,178.0,113.0,never,6323.398,3370.371,1796.408,1523.607,Yes,29.303,Yes,Sacubitril-valsartan,No,No,No,35.66468880191895,>60
+855,29.0,Female,Caucasian,Hispanic or Latino,195.0,70.0,current,5768.316,3074.512,1638.715,1646.012,Yes,31.408,No,Sacubitril-valsartan,No,No,No,18.408941485864563,<40
+856,23.0,Male,Unknown,Hispanic or Latino,163.0,99.0,former,5374.464,2864.589,1526.826,1856.497,Yes,25.635,No,Sacubitril-valsartan,No,No,No,37.26147013436712,<40
+857,35.0,Male,Unknown,Not Hispanic or Latino,212.0,77.0,former,8014.063,4271.496,2276.707,1357.526,Yes,30.425,No,Sacubitril-valsartan,No,Yes,No,17.132431470274117,<40
+858,34.0,Male,Caucasian,Not Hispanic or Latino,160.0,67.0,never,5506.712,2935.077,1564.396,1526.337,Yes,26.407,No,Sacubitril-valsartan,No,No,No,26.171874999999996,<40
+861,35.0,Male,Other,Hispanic or Latino,190.0,101.0,never,6001.189,3198.634,1704.872,1926.132,No,29.767,Yes,Sacubitril-valsartan,No,No,No,27.977839335180057,<40
+862,37.0,Male,Unknown,Not Hispanic or Latino,153.0,107.0,current,5413.295,2885.286,1537.857,1328.796,No,31.323,No,Sacubitril-valsartan,No,No,No,45.70891537442864,<40
+863,51.0,Male,Asian,Hispanic or Latino,189.0,67.0,never,5274.53,2811.324,1498.436,1501.872,No,26.766,No,Sacubitril-valsartan,No,No,No,18.75647378292881,40-60
+864,23.0,Male,Unknown,Not Hispanic or Latino,177.0,60.0,never,8031.952,4281.03,2281.789,1352.034,No,37.201,No,Sacubitril-valsartan,No,No,No,19.15158479364167,<40
+865,21.0,Male,Black,Not Hispanic or Latino,164.0,118.0,former,6784.364,3616.066,1927.363,1441.38,No,38.957,Yes,Sacubitril-valsartan,Yes,No,No,43.87269482450923,<40
+868,79.0,Male,Asian,Not Hispanic or Latino,195.0,94.0,current,5884.018,3136.182,1671.585,1508.304,Yes,35.779,No,Sacubitril-valsartan,No,No,No,24.720578566732414,>60
+869,73.0,Female,Native American,Not Hispanic or Latino,212.0,117.0,never,6711.259,3577.101,1906.595,1485.719,No,30.08,No,Sacubitril-valsartan,No,No,No,26.032395870416515,>60
+870,31.0,Male,Caucasian,Hispanic or Latino,193.0,115.0,current,5593.218,2981.185,1588.972,1377.847,Yes,36.883,Yes,Sacubitril-valsartan,No,Yes,No,30.873312035222423,<40
+871,74.0,Male,Asian,Not Hispanic or Latino,198.0,70.0,current,6099.819,3251.204,1732.892,1458.329,Yes,30.828,No,Sacubitril-valsartan,No,No,No,17.855320885623918,>60
+872,37.0,Female,Other,Hispanic or Latino,152.0,69.0,never,6061.505,3230.782,1722.007,1369.821,Yes,36.04,Yes,Sacubitril-valsartan,No,No,No,29.864958448753463,<40
+873,65.0,Female,Native American,Not Hispanic or Latino,174.0,59.0,current,5601.765,2985.741,1591.4,1448.436,No,25.683,Yes,Sacubitril-valsartan,Yes,No,No,19.487382745408905,>60
+874,32.0,Male,Asian,Not Hispanic or Latino,159.0,69.0,former,6236.205,3323.897,1771.637,1676.528,Yes,32.12,No,Sacubitril-valsartan,No,No,No,27.29322416043669,<40
+875,58.0,Male,Pacific Islander,Not Hispanic or Latino,172.0,92.0,former,6394.601,3408.322,1816.636,1313.861,Yes,29.127,Yes,Sacubitril-valsartan,No,No,No,31.09789075175771,40-60
+876,29.0,Female,Caucasian,Not Hispanic or Latino,174.0,76.0,former,5648.233,3010.508,1604.601,1908.171,Yes,36.544,No,Sacubitril-valsartan,No,Yes,No,25.102391333069097,<40
+877,19.0,Female,Unknown,Not Hispanic or Latino,158.0,100.0,former,5316.408,2833.645,1510.333,1764.839,Yes,39.741,Yes,Sacubitril-valsartan,No,No,No,40.05768306361159,<40
+878,32.0,Male,Pacific Islander,Not Hispanic or Latino,159.0,84.0,current,5457.812,2909.014,1550.504,1578.886,Yes,31.124,Yes,Sacubitril-valsartan,No,No,No,33.22653376053162,<40
+879,32.0,Female,Black,Not Hispanic or Latino,182.0,54.0,current,6906.955,3681.407,1962.19,1388.238,No,26.204,No,Sacubitril-valsartan,Yes,No,No,16.302378939741576,<40
+880,41.0,Male,Pacific Islander,Not Hispanic or Latino,197.0,59.0,former,6957.042,3708.103,1976.419,1334.988,No,38.998,Yes,Sacubitril-valsartan,No,No,No,15.202659176995027,40-60
+881,48.0,Female,Caucasian,Hispanic or Latino,183.0,119.0,current,6019.196,3208.231,1709.987,1377.424,Yes,32.297,Yes,Sacubitril-valsartan,No,No,No,35.534055958672994,40-60
+882,42.0,Male,Other,Hispanic or Latino,152.0,65.0,current,5333.363,2842.682,1515.15,1429.892,Yes,30.269,No,Sacubitril-valsartan,No,No,No,28.133656509695292,40-60
+883,20.0,Female,Unknown,Hispanic or Latino,178.0,101.0,never,6060.071,3230.018,1721.6,1462.337,No,27.676,No,Sacubitril-valsartan,No,Yes,No,31.877288221184195,<40
+884,36.0,Female,Other,Hispanic or Latino,206.0,87.0,current,7184.58,3829.381,2041.06,1441.684,Yes,39.13,No,Sacubitril-valsartan,Yes,No,No,20.501461023659157,<40
+885,20.0,Female,Pacific Islander,Hispanic or Latino,208.0,67.0,former,7072.651,3769.723,2009.262,1537.087,No,32.957,No,Sacubitril-valsartan,No,No,No,15.486316568047336,<40
+886,19.0,Female,Native American,Not Hispanic or Latino,206.0,67.0,never,6238.483,3325.111,1772.284,1500.279,Yes,30.356,No,Sacubitril-valsartan,No,Yes,Yes,15.788481477990386,<40
+887,67.0,Male,Other,Hispanic or Latino,190.0,112.0,never,6760.983,3603.604,1920.721,1370.583,No,37.047,No,Sacubitril-valsartan,No,No,No,31.02493074792244,>60
+888,32.0,Female,Unknown,Hispanic or Latino,194.0,53.0,former,5379.461,2867.253,1528.246,1405.253,Yes,26.116,No,Sacubitril-valsartan,No,No,No,14.082261664363907,<40
+890,49.0,Male,Other,Hispanic or Latino,161.0,56.0,former,5691.83,3033.745,1616.986,1305.739,Yes,33.342,Yes,Sacubitril-valsartan,No,No,No,21.60410477990818,40-60
+891,54.0,Male,Other,Not Hispanic or Latino,191.0,113.0,former,6265.322,3339.417,1779.909,1538.316,Yes,33.939,No,Sacubitril-valsartan,No,No,No,30.97502809681752,40-60
+892,31.0,Male,Black,Hispanic or Latino,212.0,89.0,current,6501.755,3465.435,1847.077,1443.914,Yes,30.013,No,Sacubitril-valsartan,No,Yes,No,19.802420790316837,<40
+893,68.0,Female,Pacific Islander,Not Hispanic or Latino,161.0,80.0,former,6930.571,3693.994,1968.899,1300.517,Yes,35.014,Yes,Sacubitril-valsartan,No,No,No,30.86300682844026,>60
+894,39.0,Female,Black,Hispanic or Latino,185.0,99.0,never,5305.161,2827.651,1507.138,1453.954,Yes,31.238,No,Sacubitril-valsartan,No,No,Yes,28.926223520818112,<40
+895,21.0,Male,Black,Not Hispanic or Latino,173.0,117.0,former,5449.98,2904.839,1548.279,1595.605,Yes,27.096,No,Sacubitril-valsartan,No,No,No,39.09251896154232,<40
+896,46.0,Female,Unknown,Not Hispanic or Latino,187.0,110.0,current,6162.561,3284.645,1750.716,1581.335,Yes,29.174,Yes,Sacubitril-valsartan,No,No,No,31.45643284051588,40-60
+897,56.0,Female,Asian,Not Hispanic or Latino,176.0,119.0,former,7609.928,4056.092,2161.897,1437.234,Yes,29.25,Yes,Sacubitril-valsartan,No,No,No,38.41683884297521,40-60
+898,78.0,Male,Unknown,Hispanic or Latino,169.0,61.0,former,5854.455,3120.425,1663.187,1420.401,Yes,35.907,No,Sacubitril-valsartan,No,No,No,21.35779559539232,>60
+899,38.0,Female,Native American,Hispanic or Latino,178.0,76.0,former,8020.042,4274.682,2278.406,2002.886,Yes,27.733,Yes,Sacubitril-valsartan,No,No,No,23.98687034465345,<40
+900,64.0,Female,Caucasian,Hispanic or Latino,166.0,65.0,never,5705.692,3041.134,1620.924,1867.492,Yes,27.026,Yes,Sacubitril-valsartan,No,No,No,23.588329220496444,>60
+901,58.0,Female,Native American,Not Hispanic or Latino,198.0,104.0,former,6946.68,3702.58,1973.475,1744.84,Yes,33.401,Yes,Sacubitril-valsartan,No,No,No,26.527905315784103,40-60
+902,48.0,Female,Pacific Islander,Not Hispanic or Latino,179.0,58.0,former,5825.361,3104.917,1654.921,1669.074,No,32.379,No,Sacubitril-valsartan,No,No,No,18.101807059704754,40-60
+903,50.0,Male,Asian,Not Hispanic or Latino,170.0,77.0,current,5613.55,2992.022,1594.748,1300.082,Yes,31.882,Yes,Sacubitril-valsartan,No,No,No,26.643598615916957,40-60
+904,49.0,Female,Other,Not Hispanic or Latino,152.0,70.0,current,5839.537,3112.473,1658.948,1335.462,Yes,32.875,No,Sacubitril-valsartan,No,No,No,30.297783933518005,40-60
+905,79.0,Female,Asian,Not Hispanic or Latino,189.0,88.0,never,6793.601,3620.989,1929.987,1351.118,Yes,35.666,Yes,Sacubitril-valsartan,Yes,No,No,24.635368550712467,>60
+906,27.0,Male,Unknown,Hispanic or Latino,177.0,119.0,former,5404.441,2880.567,1535.342,1426.312,Yes,38.833,No,Sacubitril-valsartan,No,No,No,37.983976507389315,<40
+908,49.0,Male,Other,Hispanic or Latino,159.0,82.0,current,6025.596,3211.643,1711.806,1818.928,Yes,26.401,Yes,Sacubitril-valsartan,No,No,No,32.4354258138523,40-60
+909,28.0,Female,Unknown,Hispanic or Latino,166.0,107.0,former,5620.879,2995.929,1596.83,1344.518,Yes,25.873,No,Sacubitril-valsartan,No,No,No,38.83001887066338,<40
+910,48.0,Female,Asian,Not Hispanic or Latino,157.0,117.0,former,5408.823,2882.903,1536.587,1705.654,Yes,32.269,Yes,Sacubitril-valsartan,No,No,No,47.46642865836342,40-60
+911,20.0,Male,Asian,,163.0,108.0,former,6099.805,3251.196,1732.887,1522.214,No,30.737,Yes,Sacubitril-valsartan,No,No,No,40.64887651021868,<40
+913,29.0,Female,Other,Not Hispanic or Latino,164.0,73.0,former,5263.057,2805.209,1495.176,1820.792,No,28.076,Yes,Sacubitril-valsartan,No,No,No,27.141582391433676,<40
+914,59.0,Male,Pacific Islander,Not Hispanic or Latino,197.0,91.0,never,6695.997,3568.966,1902.259,1466.905,Yes,33.713,Yes,Sacubitril-valsartan,No,No,No,23.448169239094025,40-60
+915,54.0,Male,Asian,Hispanic or Latino,180.0,94.0,current,6953.141,3706.024,1975.311,1403.745,Yes,33.256,No,Sacubitril-valsartan,No,No,No,29.012345679012345,40-60
+916,28.0,Female,Native American,Hispanic or Latino,174.0,41.0,former,5678.546,3026.665,1613.212,1625.264,Yes,35.449,No,Sacubitril-valsartan,No,No,No,13.54207953494517,<40
+917,79.0,Male,Native American,Hispanic or Latino,212.0,58.0,current,5911.385,3150.768,1679.359,1829.689,No,37.674,No,Sacubitril-valsartan,No,No,No,12.904948380206477,>60
+918,73.0,Female,Caucasian,Hispanic or Latino,177.0,76.0,former,6322.107,3369.683,1796.041,1391.489,Yes,31.614,No,Sacubitril-valsartan,Yes,No,No,24.258674071946118,>60
+919,71.0,Male,Other,Not Hispanic or Latino,157.0,117.0,current,5959.219,3176.264,1692.949,1351.016,No,35.314,No,Sacubitril-valsartan,No,No,No,47.46642865836342,>60
+920,60.0,Male,Asian,Hispanic or Latino,201.0,52.0,never,7611.709,4057.041,2162.403,1498.234,Yes,30.958,No,Sacubitril-valsartan,No,No,No,12.870968540382668,>60
+921,18.0,Female,Asian,Not Hispanic or Latino,172.0,119.0,never,5906.487,3148.158,1677.968,1432.307,Yes,27.24,No,Sacubitril-valsartan,No,No,No,40.2244456462953,<40
+922,30.0,Male,Unknown,Hispanic or Latino,181.0,46.0,current,6224.762,3317.798,1768.386,1570.122,Yes,27.27,Yes,Sacubitril-valsartan,No,No,No,14.041085436952473,<40
+923,65.0,Male,Native American,Hispanic or Latino,169.0,45.0,never,6861.047,3656.938,1949.148,1893.821,Yes,34.201,No,Sacubitril-valsartan,No,No,No,15.75575084905991,>60
+924,45.0,Male,Pacific Islander,Not Hispanic or Latino,162.0,41.0,never,5735.587,3057.068,1629.417,1637.934,Yes,30.999,No,Sacubitril-valsartan,No,No,No,15.622618503276936,40-60
+925,41.0,Female,Black,Hispanic or Latino,187.0,61.0,former,6057.567,3228.683,1720.888,1350.824,No,28.851,Yes,Sacubitril-valsartan,Yes,No,No,17.444021847922443,40-60
+926,72.0,Female,Pacific Islander,Hispanic or Latino,170.0,107.0,never,7684.846,4096.023,2183.18,1614.17,No,37.254,Yes,Sacubitril-valsartan,No,No,No,37.024221453287204,>60
+927,70.0,Male,Unknown,Not Hispanic or Latino,210.0,106.0,former,5500.629,2931.835,1562.668,1551.043,No,28.777,No,Sacubitril-valsartan,No,No,No,24.03628117913832,>60
+928,35.0,Female,Native American,Hispanic or Latino,166.0,73.0,current,6513.304,3471.591,1850.358,1503.908,No,31.824,Yes,Sacubitril-valsartan,Yes,No,No,26.491508201480624,<40
+929,50.0,Female,Other,Hispanic or Latino,186.0,62.0,never,5430.756,2894.593,1542.818,1667.138,No,25.721,No,Sacubitril-valsartan,No,No,No,17.921146953405014,40-60
+930,49.0,Male,Unknown,Hispanic or Latino,163.0,116.0,never,6873.067,3663.345,1952.563,1555.186,No,26.112,No,Sacubitril-valsartan,No,No,No,43.65990439986451,40-60
+931,55.0,Female,Other,Hispanic or Latino,199.0,80.0,former,5598.051,2983.761,1590.345,1472.832,No,28.339,Yes,Sacubitril-valsartan,No,No,No,20.201510062877198,40-60
+932,35.0,Female,Pacific Islander,Hispanic or Latino,208.0,42.0,never,6454.068,3440.018,1833.53,1565.184,Yes,32.709,No,Sacubitril-valsartan,No,No,Yes,9.707840236686389,<40
+933,62.0,Male,Black,Hispanic or Latino,198.0,55.0,never,7362.905,3924.428,2091.72,1820.978,Yes,26.465,No,Sacubitril-valsartan,No,No,No,14.029180695847362,>60
+934,66.0,Male,Other,Hispanic or Latino,198.0,46.0,never,5717.814,3047.595,1624.368,1591.669,No,25.128,No,Sacubitril-valsartan,No,No,No,11.73349658198143,>60
+935,71.0,Female,Asian,Hispanic or Latino,169.0,110.0,former,6797.367,3622.997,1931.057,1509.721,No,32.333,Yes,Sacubitril-valsartan,No,Yes,No,38.514057631035335,>60
+936,65.0,Female,Black,Hispanic or Latino,198.0,66.0,current,6360.181,3389.976,1806.857,1341.422,No,25.476,No,Sacubitril-valsartan,No,No,No,16.835016835016834,>60
+937,41.0,Male,Native American,Not Hispanic or Latino,199.0,71.0,former,6802.624,3625.799,1932.551,1422.752,Yes,27.267,No,Sacubitril-valsartan,No,No,No,17.928840180803515,40-60
+939,50.0,Male,Unknown,Not Hispanic or Latino,193.0,53.0,current,5920.399,3155.573,1681.92,1709.61,No,29.634,Yes,Sacubitril-valsartan,No,No,No,14.228569894493813,40-60
+940,56.0,Female,Unknown,Hispanic or Latino,193.0,101.0,current,6810.592,3630.046,1934.815,1609.353,Yes,33.91,No,Sacubitril-valsartan,No,No,No,27.114821874412737,40-60
+941,24.0,Male,Black,Not Hispanic or Latino,184.0,115.0,former,6627.836,3532.637,1882.896,1754.118,Yes,33.923,No,Sacubitril-valsartan,No,No,No,33.96739130434783,<40
+942,30.0,Female,Caucasian,Not Hispanic or Latino,164.0,111.0,former,5825.963,3105.238,1655.092,1321.635,No,33.045,Yes,Sacubitril-valsartan,No,No,No,41.2700773349197,<40
+943,22.0,Female,Unknown,Not Hispanic or Latino,166.0,49.0,current,5468.756,2914.847,1553.613,1810.768,Yes,27.364,No,Sacubitril-valsartan,No,No,No,17.78197125852809,<40
+944,72.0,Male,Asian,Hispanic or Latino,187.0,73.0,former,5581.601,2974.993,1585.671,1487.386,No,32.871,No,Sacubitril-valsartan,No,No,No,20.875632703251448,>60
+945,29.0,Male,Black,Hispanic or Latino,199.0,119.0,current,5727.929,3052.986,1627.242,1363.996,No,29.675,No,Sacubitril-valsartan,No,No,No,30.049746218529833,<40
+946,32.0,Male,Asian,Hispanic or Latino,163.0,116.0,current,6124.378,3264.293,1739.868,1664.252,No,30.509,No,Sacubitril-valsartan,Yes,No,No,43.65990439986451,<40
+947,59.0,Female,Unknown,Not Hispanic or Latino,201.0,110.0,never,6512.58,3471.205,1850.152,1597.889,Yes,34.963,No,Sacubitril-valsartan,Yes,No,No,27.227048835424874,40-60
+949,65.0,Male,Pacific Islander,Not Hispanic or Latino,181.0,77.0,current,6056.494,3228.111,1720.583,1392.385,Yes,31.985,Yes,Sacubitril-valsartan,No,No,No,23.503556057507403,>60
+950,39.0,Male,Black,Hispanic or Latino,160.0,96.0,current,5589.532,2979.221,1587.925,1851.813,No,26.288,Yes,Sacubitril-valsartan,Yes,No,No,37.49999999999999,<40
+951,27.0,Male,Caucasian,Not Hispanic or Latino,169.0,56.0,former,5436.199,2897.494,1544.364,2060.338,Yes,29.188,No,Sacubitril-valsartan,No,No,No,19.607156612163443,<40
+952,49.0,Female,Native American,Hispanic or Latino,205.0,73.0,current,7035.401,3749.869,1998.68,1665.254,Yes,29.057,Yes,Sacubitril-valsartan,No,No,No,17.37061273051755,40-60
+953,60.0,Female,Asian,Hispanic or Latino,164.0,85.0,never,6497.085,3462.946,1845.75,1385.925,Yes,28.226,Yes,Sacubitril-valsartan,No,Yes,No,31.603212373587155,>60
+955,62.0,Female,Asian,Hispanic or Latino,177.0,51.0,current,7285.263,3883.045,2069.663,1379.483,No,29.364,Yes,Sacubitril-valsartan,No,Yes,No,16.278847074595422,>60
+956,65.0,Female,Asian,Not Hispanic or Latino,157.0,52.0,never,5554.522,2960.56,1577.978,1599.13,Yes,33.675,No,Sacubitril-valsartan,No,No,No,21.096190514828187,>60
+959,58.0,Female,Caucasian,Not Hispanic or Latino,176.0,86.0,current,6328.611,3373.15,1797.889,1550.993,No,33.297,Yes,Sacubitril-valsartan,No,No,No,27.763429752066116,40-60
+960,65.0,Female,Caucasian,Hispanic or Latino,175.0,98.0,never,5387.73,2871.66,1530.595,1469.125,Yes,26.971,Yes,Sacubitril-valsartan,No,No,No,32.0,>60
+961,46.0,Male,Other,Not Hispanic or Latino,189.0,65.0,current,6527.16,3478.976,1854.294,1585.362,Yes,37.124,No,Sacubitril-valsartan,No,No,No,18.19657904313989,40-60
+962,37.0,Male,Unknown,Not Hispanic or Latino,191.0,117.0,former,5418.968,2888.31,1539.469,1641.545,No,33.816,No,Sacubitril-valsartan,No,Yes,No,32.07148926838629,<40
+963,18.0,Male,Black,Hispanic or Latino,209.0,118.0,never,6289.302,3352.198,1786.722,1407.391,Yes,28.594,Yes,Sacubitril-valsartan,No,No,No,27.014033561502718,<40
+964,60.0,Male,Native American,Not Hispanic or Latino,156.0,111.0,never,5848.409,3117.202,1661.469,1318.546,Yes,31.189,No,Sacubitril-valsartan,No,No,Yes,45.611439842209066,>60
+965,51.0,Female,Native American,Hispanic or Latino,166.0,73.0,never,6963.94,3711.78,1978.379,1519.796,Yes,26.933,Yes,Sacubitril-valsartan,No,Yes,No,26.491508201480624,40-60
+966,71.0,Male,Asian,Not Hispanic or Latino,163.0,67.0,current,7248.06,3863.216,2059.094,1380.266,Yes,31.255,Yes,Sacubitril-valsartan,No,No,No,25.21735857578381,>60
+967,73.0,Female,Other,Hispanic or Latino,163.0,112.0,current,5888.18,3138.4,1672.767,1719.811,No,33.458,Yes,Sacubitril-valsartan,No,No,No,42.15439045504159,>60
+968,31.0,Female,Black,Not Hispanic or Latino,192.0,64.0,current,5770.613,3075.737,1639.368,1545.86,No,27.081,Yes,Sacubitril-valsartan,No,No,No,17.36111111111111,<40
+969,22.0,Female,Pacific Islander,Hispanic or Latino,210.0,99.0,never,7594.965,4048.116,2157.646,1306.214,No,33.898,Yes,Sacubitril-valsartan,No,No,No,22.448979591836736,<40
+970,32.0,Male,Asian,Not Hispanic or Latino,204.0,59.0,current,5373.005,2863.812,1526.412,1542.244,Yes,33.58,No,Sacubitril-valsartan,No,No,No,14.177239523260285,<40
+971,41.0,Female,Black,Hispanic or Latino,204.0,95.0,never,5830.37,3107.587,1656.344,1685.595,No,31.31,No,Sacubitril-valsartan,No,Yes,No,22.827758554402152,40-60
+972,56.0,Female,Other,Hispanic or Latino,168.0,45.0,former,7875.04,4197.396,2237.212,1425.018,Yes,31.677,No,Sacubitril-valsartan,No,No,No,15.94387755102041,40-60
+973,58.0,Female,Asian,Hispanic or Latino,200.0,81.0,former,5368.358,2861.335,1525.092,1518.07,No,28.25,No,Sacubitril-valsartan,No,No,No,20.25,40-60
+975,28.0,Male,Caucasian,Not Hispanic or Latino,176.0,67.0,never,5506.349,2934.884,1564.293,1370.735,No,38.486,No,Sacubitril-valsartan,No,No,No,21.62964876033058,<40
+976,20.0,Female,Asian,Not Hispanic or Latino,180.0,84.0,former,6685.63,3563.441,1899.314,1875.531,Yes,30.657,No,Sacubitril-valsartan,No,No,No,25.925925925925924,<40
+977,22.0,Male,Asian,Hispanic or Latino,174.0,109.0,former,6928.184,3692.722,1968.221,1421.538,Yes,26.297,No,Sacubitril-valsartan,Yes,Yes,No,36.00211388558594,<40
+979,39.0,Male,Asian,Not Hispanic or Latino,195.0,76.0,current,5421.324,2889.566,1540.139,1666.064,Yes,31.094,No,Sacubitril-valsartan,Yes,No,No,19.986850756081527,<40
+980,30.0,Female,Unknown,Not Hispanic or Latino,184.0,100.0,current,6263.856,3338.635,1779.492,1477.482,Yes,34.478,No,Sacubitril-valsartan,Yes,No,No,29.536862003780715,<40
+981,22.0,Female,Caucasian,Not Hispanic or Latino,153.0,87.0,current,6859.466,3656.095,1948.699,1302.196,No,38.975,No,Sacubitril-valsartan,No,No,No,37.165192874535435,<40
+982,31.0,Male,Other,Not Hispanic or Latino,184.0,81.0,former,5902.227,3145.887,1676.758,1836.103,No,29.556,No,Sacubitril-valsartan,No,No,No,23.92485822306238,<40
+983,55.0,Male,Caucasian,Hispanic or Latino,192.0,95.0,current,5487.736,2924.963,1559.005,1811.235,No,38.025,Yes,Sacubitril-valsartan,No,No,No,25.770399305555557,40-60
+984,77.0,Male,Asian,Not Hispanic or Latino,207.0,80.0,former,6222.087,3316.372,1767.626,1318.204,No,30.275,Yes,Sacubitril-valsartan,No,No,No,18.67021400732806,>60
+985,44.0,Male,Black,Not Hispanic or Latino,167.0,48.0,current,6384.821,3403.11,1813.858,1739.567,Yes,34.303,Yes,Sacubitril-valsartan,No,Yes,No,17.21108680841909,40-60
+987,58.0,Male,Unknown,Not Hispanic or Latino,162.0,85.0,former,5331.679,2841.785,1514.671,1595.571,Yes,31.338,No,Sacubitril-valsartan,No,No,No,32.38835543362292,40-60
+988,32.0,Female,Asian,Hispanic or Latino,181.0,92.0,former,5889.146,3138.915,1673.042,1427.697,Yes,39.175,No,Sacubitril-valsartan,Yes,No,No,28.082170873904946,<40
+989,25.0,Male,Black,Hispanic or Latino,208.0,106.0,current,6724.822,3584.33,1910.448,1787.87,Yes,28.751,No,Sacubitril-valsartan,No,No,No,24.500739644970412,<40
+990,64.0,Male,Pacific Islander,Not Hispanic or Latino,180.0,109.0,former,5683.84,3029.487,1614.717,1762.278,Yes,25.221,Yes,Sacubitril-valsartan,No,No,No,33.641975308641975,>60
+991,25.0,Male,Caucasian,Hispanic or Latino,197.0,55.0,former,6796.756,3622.671,1930.884,1337.014,Yes,34.625,No,Sacubitril-valsartan,No,No,No,14.171970419232652,<40
+993,54.0,Female,Caucasian,Hispanic or Latino,183.0,65.0,former,5713.56,3045.327,1623.159,1736.819,No,31.799,No,Sacubitril-valsartan,No,No,No,19.409358296754156,40-60
+994,42.0,Female,Caucasian,Not Hispanic or Latino,193.0,85.0,current,5705.931,3041.261,1620.992,1556.598,Yes,33.219,Yes,Sacubitril-valsartan,No,No,No,22.819404547773097,40-60
+995,62.0,Male,Unknown,Hispanic or Latino,200.0,63.0,never,7592.593,4046.852,2156.972,1650.904,No,28.488,No,Sacubitril-valsartan,No,No,No,15.75,>60
+996,57.0,Male,Pacific Islander,Not Hispanic or Latino,184.0,78.0,former,6773.456,3610.252,1924.264,1321.236,No,27.634,Yes,Sacubitril-valsartan,No,No,No,23.03875236294896,40-60
+997,65.0,Female,Other,Not Hispanic or Latino,177.0,83.0,former,6624.054,3530.621,1881.821,1418.298,No,25.709,Yes,Sacubitril-valsartan,No,No,No,26.493025631204315,>60
+998,71.0,Female,Black,Not Hispanic or Latino,155.0,43.0,current,5949.178,3170.912,1690.096,1805.167,No,27.922,No,Sacubitril-valsartan,No,No,No,17.898022892819977,>60
+999,20.0,Male,Pacific Islander,Not Hispanic or Latino,183.0,74.0,former,5337.645,2844.965,1516.366,1335.421,Yes,27.222,Yes,Sacubitril-valsartan,No,No,No,22.096807907073963,<40
